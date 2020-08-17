@@ -1,4 +1,4 @@
-package yuxi
+package main
 
 func longestPalindrome(s string) string {
 	length := len(s)

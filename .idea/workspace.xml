@@ -1,13 +1,173 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/字符串/字符串-58.最后一个单词的长度.go" line="0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed0ca46a-712a-4a98-a90b-207df57e82f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/字符串/387.字符串中的第一个唯一字符.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串/字符串-771.宝石与石头.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/102.二叉树层序遍历.go" beforeDir="false" afterPath="$PROJECT_DIR$/二叉树/102.二叉树层序遍历.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/111.二叉树的最小深度.go" beforeDir="false" afterPath="$PROJECT_DIR$/二叉树/111.二叉树的最小深度.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/144.二叉树的前序遍历.go" beforeDir="false" afterPath="$PROJECT_DIR$/二叉树/144.二叉树的前序遍历.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/145.二叉树的后序遍历.go" beforeDir="false" afterPath="$PROJECT_DIR$/二叉树/145.二叉树的后序遍历.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/46.全排列1.go" beforeDir="false" afterPath="$PROJECT_DIR$/递归回溯/46.全排列1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/47.全排列2.go" beforeDir="false" afterPath="$PROJECT_DIR$/递归回溯/47.全排列2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/94.二叉树的中序遍历.go" beforeDir="false" afterPath="$PROJECT_DIR$/二叉树/94.二叉树的中序遍历.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP-120.三角形最小路径和.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/DP-120.三角形最小路径和.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP-121.买卖股票的最佳时机.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/DP-121.买卖股票的最佳时机.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP-122.买卖股票的最佳时机2.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/DP-122.买卖股票的最佳时机2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP-123.买卖股票的最佳时机3.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/DP-123.买卖股票的最佳时机3.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP-152.乘积最大子数组.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/DP-152.乘积最大子数组.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP-188.买卖股票的最佳时机4.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/DP-188.买卖股票的最佳时机4.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP-198.打家劫舍.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/DP-198.打家劫舍.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP-213.打家劫舍2.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/DP-213.打家劫舍2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP-309.最佳买卖股票时机含冷冻期.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/DP-309.最佳买卖股票时机含冷冻期.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP-322.零钱兑换.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/DP-322.零钱兑换.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP-53.最大子序和.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/DP-53.最大子序和.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP-62.不同路径1.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/DP-62.不同路径1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP-63.不同路径2.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/DP-63.不同路径2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP-70.爬楼梯问题.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/DP-70.爬楼梯问题.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP-72.编辑距离.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/DP-72.编辑距离.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP-746.使用最小花费爬楼梯.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/DP-746.使用最小花费爬楼梯.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP-买卖股票714.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/DP-买卖股票714.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP-斐波那契数列.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/DP-斐波那契数列.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trie树-208.Trie树的实现.go" beforeDir="false" afterPath="$PROJECT_DIR$/trie树和并查集/Trie树-208.Trie树的实现.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trie树-212.单词搜索2.go" beforeDir="false" afterPath="$PROJECT_DIR$/trie树和并查集/Trie树-212.单词搜索2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bilibili-24点.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试/bilibili-24点.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bilibili-括号校验.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试/bilibili-括号校验.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meituan-不一样的逆序对.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试/meituan-不一样的逆序对.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meituan-旅行路线统计.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试/meituan-旅行路线统计.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meituan-运送订单.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试/meituan-运送订单.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuxi/1143.最长公共子序列.go" beforeDir="false" afterPath="$PROJECT_DIR$/yuxi/1143.最长公共子序列.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuxi/5.最长回文子串.go" beforeDir="false" afterPath="$PROJECT_DIR$/yuxi/5.最长回文子串.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/位运算-190.颠倒二进制位.go" beforeDir="false" afterPath="$PROJECT_DIR$/位运算/位运算-190.颠倒二进制位.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/位运算-191.位1的个数.go" beforeDir="false" afterPath="$PROJECT_DIR$/位运算/位运算-191.位1的个数.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/位运算-231.2的幂.go" beforeDir="false" afterPath="$PROJECT_DIR$/位运算/位运算-231.2的幂.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/位运算-338.比特位计数.go" beforeDir="false" afterPath="$PROJECT_DIR$/位运算/位运算-338.比特位计数.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/回溯-51.N皇后.go" beforeDir="false" afterPath="$PROJECT_DIR$/递归回溯/回溯-51.N皇后.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/回溯-Trie树-79.单词搜索.go" beforeDir="false" afterPath="$PROJECT_DIR$/递归回溯/回溯-Trie树-79.单词搜索.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/回溯剪枝-37.解数独.go" beforeDir="false" afterPath="$PROJECT_DIR$/递归回溯/回溯剪枝-37.解数独.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/字符串-58.最后一个单词的长度.go" beforeDir="false" afterPath="$PROJECT_DIR$/字符串/字符串-58.最后一个单词的长度.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/字符串-709.转换成小写字母.go" beforeDir="false" afterPath="$PROJECT_DIR$/字符串/字符串-709.转换成小写字母.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/字符串-771.宝石与石头.go" beforeDir="false" afterPath="$PROJECT_DIR$/字符串/8.字符串转换整数.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/并查集-547.朋友圈.go" beforeDir="false" afterPath="$PROJECT_DIR$/trie树和并查集/并查集-547.朋友圈.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/递归-22.括号生成.go" beforeDir="false" afterPath="$PROJECT_DIR$/递归回溯/递归-22.括号生成.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/递归分治-200.岛屿数量.go" beforeDir="false" afterPath="$PROJECT_DIR$/递归回溯/递归分治-200.岛屿数量.go" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>动态规划</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
   <component name="GOROOT" path="D:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/字符串-771.宝石与石头.go" />
+        <option value="$PROJECT_DIR$/字符串/字符串-58.最后一个单词的长度.go" />
+        <option value="$PROJECT_DIR$/字符串/387.字符串中的第一个唯一字符.go" />
+        <option value="$PROJECT_DIR$/字符串/字符串-709.转换成小写字母.go" />
+        <option value="$PROJECT_DIR$/字符串/字符串-771.宝石与石头.go" />
+        <option value="$PROJECT_DIR$/动态规划/DP-53.最大子序和.go" />
+        <option value="$PROJECT_DIR$/字符串/8.字符串转换整数.go" />
+        <option value="$PROJECT_DIR$/trie树和并查集/Trie树-208.Trie树的实现.go" />
+        <option value="$PROJECT_DIR$/trie树和并查集/Trie树-212.单词搜索2.go" />
+        <option value="$PROJECT_DIR$/trie树和并查集/并查集-547.朋友圈.go" />
+        <option value="$PROJECT_DIR$/yuxi/5.最长回文子串.go" />
+        <option value="$PROJECT_DIR$/yuxi/1143.最长公共子序列.go" />
+        <option value="$PROJECT_DIR$/二叉树/94.二叉树的中序遍历.go" />
+        <option value="$PROJECT_DIR$/二叉树/102.二叉树层序遍历.go" />
+        <option value="$PROJECT_DIR$/二叉树/111.二叉树的最小深度.go" />
+        <option value="$PROJECT_DIR$/二叉树/144.二叉树的前序遍历.go" />
+        <option value="$PROJECT_DIR$/二叉树/145.二叉树的后序遍历.go" />
+        <option value="$PROJECT_DIR$/位运算/位运算-190.颠倒二进制位.go" />
+        <option value="$PROJECT_DIR$/位运算/位运算-191.位1的个数.go" />
+        <option value="$PROJECT_DIR$/位运算/位运算-231.2的幂.go" />
+        <option value="$PROJECT_DIR$/位运算/位运算-338.比特位计数.go" />
+        <option value="$PROJECT_DIR$/动态规划/DP-62.不同路径1.go" />
+        <option value="$PROJECT_DIR$/动态规划/DP-63.不同路径2.go" />
+        <option value="$PROJECT_DIR$/动态规划/DP-70.爬楼梯问题.go" />
+        <option value="$PROJECT_DIR$/动态规划/DP-72.编辑距离.go" />
+        <option value="$PROJECT_DIR$/动态规划/DP-120.三角形最小路径和.go" />
+        <option value="$PROJECT_DIR$/动态规划/DP-121.买卖股票的最佳时机.go" />
+        <option value="$PROJECT_DIR$/动态规划/DP-122.买卖股票的最佳时机2.go" />
+        <option value="$PROJECT_DIR$/动态规划/DP-123.买卖股票的最佳时机3.go" />
+        <option value="$PROJECT_DIR$/动态规划/DP-152.乘积最大子数组.go" />
+        <option value="$PROJECT_DIR$/动态规划/DP-198.打家劫舍.go" />
+        <option value="$PROJECT_DIR$/动态规划/DP-213.打家劫舍2.go" />
+        <option value="$PROJECT_DIR$/动态规划/DP-309.最佳买卖股票时机含冷冻期.go" />
+        <option value="$PROJECT_DIR$/动态规划/DP-322.零钱兑换.go" />
+        <option value="$PROJECT_DIR$/动态规划/DP-746.使用最小花费爬楼梯.go" />
+        <option value="$PROJECT_DIR$/动态规划/DP-买卖股票714.go" />
+        <option value="$PROJECT_DIR$/动态规划/DP-斐波那契数列.go" />
+        <option value="$PROJECT_DIR$/动态规划/DP-188.买卖股票的最佳时机4.go" />
+        <option value="$PROJECT_DIR$/递归回溯/46.全排列1.go" />
+        <option value="$PROJECT_DIR$/递归回溯/47.全排列2.go" />
+        <option value="$PROJECT_DIR$/递归回溯/回溯-51.N皇后.go" />
+        <option value="$PROJECT_DIR$/递归回溯/回溯-Trie树-79.单词搜索.go" />
+        <option value="$PROJECT_DIR$/递归回溯/回溯剪枝-37.解数独.go" />
+        <option value="$PROJECT_DIR$/递归回溯/递归-22.括号生成.go" />
+        <option value="$PROJECT_DIR$/递归回溯/递归分治-200.岛屿数量.go" />
+        <option value="$PROJECT_DIR$/面试/bilibili-24点.go" />
+        <option value="$PROJECT_DIR$/面试/bilibili-括号校验.go" />
+        <option value="$PROJECT_DIR$/面试/meituan-不一样的逆序对.go" />
+        <option value="$PROJECT_DIR$/面试/meituan-旅行路线统计.go" />
+        <option value="$PROJECT_DIR$/面试/meituan-运送订单.go" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="778" />
-    <option name="y" value="67" />
+    <option name="x" value="865" />
+    <option name="y" value="22" />
     <option name="width" value="968" />
     <option name="height" value="1058" />
   </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
@@ -15,5 +175,434 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github-workstation\leetcode-go\leetcode\递归回溯" />
+      <recent name="D:\github-workstation\leetcode-go\leetcode\二叉树" />
+      <recent name="D:\github-workstation\leetcode-go\leetcode\trie树和并查集" />
+      <recent name="D:\github-workstation\leetcode-go\leetcode\面试" />
+      <recent name="D:\github-workstation\leetcode-go\leetcode\位运算" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build 387.字符串中的第一个唯一字符.go">
+    <configuration name="go build 字符串-58.最后一个单词的长度.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/字符串/字符串-58.最后一个单词的长度.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 字符串-58.最后一个单词的长度.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/字符串-58.最后一个单词的长度.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 387.字符串中的第一个唯一字符.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/字符串/387.字符串中的第一个唯一字符.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build 387.字符串中的第一个唯一字符.go" />
+        <item itemvalue="Go Build.go build 字符串-58.最后一个单词的长度.go (1)" />
+        <item itemvalue="Go Build.go build 字符串-58.最后一个单词的长度.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16471216" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2559653" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/1.两数之和.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符串/387.字符串中的第一个唯一字符.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符串/字符串-58.最后一个单词的长度.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符串/字符串-709.转换成小写字母.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符串/8.字符串转换整数.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符串/字符串-771.宝石与石头.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trie树和并查集/Trie树-208.Trie树的实现.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trie树和并查集/Trie树-212.单词搜索2.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trie树和并查集/并查集-547.朋友圈.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yuxi/5.最长回文子串.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yuxi/1143.最长公共子序列.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/94.二叉树的中序遍历.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/102.二叉树层序遍历.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/111.二叉树的最小深度.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/144.二叉树的前序遍历.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/145.二叉树的后序遍历.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/位运算/位运算-190.颠倒二进制位.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/位运算/位运算-191.位1的个数.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/位运算/位运算-231.2的幂.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/位运算/位运算-338.比特位计数.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/DP-53.最大子序和.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/DP-62.不同路径1.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/DP-63.不同路径2.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/DP-70.爬楼梯问题.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/DP-72.编辑距离.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/DP-120.三角形最小路径和.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/DP-121.买卖股票的最佳时机.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/DP-122.买卖股票的最佳时机2.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/DP-123.买卖股票的最佳时机3.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/DP-198.打家劫舍.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/DP-188.买卖股票的最佳时机4.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/DP-152.乘积最大子数组.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/DP-213.打家劫舍2.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/DP-309.最佳买卖股票时机含冷冻期.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/DP-322.零钱兑换.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/DP-746.使用最小花费爬楼梯.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/DP-买卖股票714.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/DP-斐波那契数列.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/递归回溯/46.全排列1.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/递归回溯/47.全排列2.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/递归回溯/回溯-51.N皇后.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/递归回溯/回溯-Trie树-79.单词搜索.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/递归回溯/回溯剪枝-37.解数独.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/递归回溯/递归-22.括号生成.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/递归回溯/递归分治-200.岛屿数量.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/bilibili-24点.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/bilibili-括号校验.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/meituan-不一样的逆序对.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/meituan-旅行路线统计.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/meituan-运送订单.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
