@@ -1,9 +1,6 @@
 package main
 
-import (
-	"fmt"
-	"strings"
-)
+import "strings"
 
 func isPalindrome(s string) bool {
 	s = strings.ToLower(s)
@@ -29,9 +26,4 @@ func isPalindrome(s string) bool {
 		}
 	}
 	return true
-}
-
-func main() {
-	s := "A man, a plan, a canal: Panama"
-	fmt.Println(isPalindrome(s))
 }
