@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ed0ca46a-712a-4a98-a90b-207df57e82f2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/字符串/10.正则表达式匹配.go" beforeDir="false" afterPath="$PROJECT_DIR$/字符串/10.正则表达式匹配.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,20 +79,12 @@
       <recent name="D:\github-workstation\leetcode-go\leetcode\位运算" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build 151.翻转字符串里的单词.go">
+  <component name="RunManager" selected="Go Build.go build leetcode/字符串">
     <configuration name="go build 字符串-58.最后一个单词的长度.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/字符串/字符串-58.最后一个单词的长度.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build 字符串-58.最后一个单词的长度.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/字符串-58.最后一个单词的长度.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -101,23 +112,63 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build leetcode/字符串" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/字符串/10.正则表达式匹配.go" />
+      <package value="leetcode/字符串" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build 151.翻转字符串里的单词.go" />
+        <item itemvalue="Go Build.go build leetcode/字符串" />
         <item itemvalue="Go Build.go build 14.最长公共前缀.go" />
+        <item itemvalue="Go Build.go build 151.翻转字符串里的单词.go" />
         <item itemvalue="Go Build.go build 387.字符串中的第一个唯一字符.go" />
         <item itemvalue="Go Build.go build 字符串-58.最后一个单词的长度.go (1)" />
-        <item itemvalue="Go Build.go build 字符串-58.最后一个单词的长度.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="520" y="387" key="#GOROOT" timestamp="1597903487171">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="520" y="387" key="#GOROOT/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1597903487171" />
+    <state x="406" y="97" key="#go_build_leetcode/字符串" timestamp="1597917600622">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="406" y="97" key="#go_build_leetcode/字符串/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1597917600622" />
+    <state width="1398" height="227" key="GridCell.Tab.0.bottom" timestamp="1597917601655">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="227" key="GridCell.Tab.0.bottom/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1597917601655" />
+    <state width="1398" height="227" key="GridCell.Tab.0.center" timestamp="1597917601653">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="227" key="GridCell.Tab.0.center/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1597917601653" />
+    <state width="1398" height="227" key="GridCell.Tab.0.left" timestamp="1597917601650">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="227" key="GridCell.Tab.0.left/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1597917601650" />
+    <state width="1398" height="227" key="GridCell.Tab.0.right" timestamp="1597917601654">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="227" key="GridCell.Tab.0.right/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1597917601654" />
   </component>
 </project>
