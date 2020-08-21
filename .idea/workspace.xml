@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed0ca46a-712a-4a98-a90b-207df57e82f2" name="Default Changelist" comment="" />
+    <list default="true" id="ed0ca46a-712a-4a98-a90b-207df57e82f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/字符串/44.通配符匹配.go" beforeDir="false" afterPath="$PROJECT_DIR$/字符串/44.通配符匹配.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +85,7 @@
       <recent name="D:\github-workstation\leetcode-go\leetcode\位运算" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build 115.不同的子序列.go">
+  <component name="RunManager" selected="Go Build.go build 14.最长公共前缀.go">
     <configuration name="go build 115.不同的子序列.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -126,9 +129,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 14.最长公共前缀.go" />
         <item itemvalue="Go Build.go build 115.不同的子序列.go" />
         <item itemvalue="Go Build.go build leetcode/字符串" />
-        <item itemvalue="Go Build.go build 14.最长公共前缀.go" />
         <item itemvalue="Go Build.go build 151.翻转字符串里的单词.go" />
         <item itemvalue="Go Build.go build 387.字符串中的第一个唯一字符.go" />
       </list>
@@ -168,25 +171,33 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="520" y="387" key="#GOROOT/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1597976086656" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597976167788">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1597976167788" />
+    <state x="406" y="96" key="#go_build_115.不同的子序列.go" timestamp="1597976174792">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="406" y="96" key="#go_build_115.不同的子序列.go/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1597976174792" />
     <state x="406" y="97" key="#go_build_leetcode/字符串" timestamp="1597917600622">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="406" y="97" key="#go_build_leetcode/字符串/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1597917600622" />
-    <state width="1398" height="227" key="GridCell.Tab.0.bottom" timestamp="1597917601655">
+    <state width="1398" height="227" key="GridCell.Tab.0.bottom" timestamp="1597976196947">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="227" key="GridCell.Tab.0.bottom/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1597917601655" />
-    <state width="1398" height="227" key="GridCell.Tab.0.center" timestamp="1597917601653">
+    <state width="1398" height="227" key="GridCell.Tab.0.bottom/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1597976196947" />
+    <state width="1398" height="227" key="GridCell.Tab.0.center" timestamp="1597976196945">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="227" key="GridCell.Tab.0.center/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1597917601653" />
-    <state width="1398" height="227" key="GridCell.Tab.0.left" timestamp="1597917601650">
+    <state width="1398" height="227" key="GridCell.Tab.0.center/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1597976196945" />
+    <state width="1398" height="227" key="GridCell.Tab.0.left" timestamp="1597976196943">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="227" key="GridCell.Tab.0.left/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1597917601650" />
-    <state width="1398" height="227" key="GridCell.Tab.0.right" timestamp="1597917601654">
+    <state width="1398" height="227" key="GridCell.Tab.0.left/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1597976196943" />
+    <state width="1398" height="227" key="GridCell.Tab.0.right" timestamp="1597976196946">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="227" key="GridCell.Tab.0.right/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1597917601654" />
+    <state width="1398" height="227" key="GridCell.Tab.0.right/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1597976196946" />
   </component>
 </project>
