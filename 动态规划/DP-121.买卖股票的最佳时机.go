@@ -36,6 +36,13 @@ func profit(prices []int) int {
 	return result
 }
 
+func max(x, y int) int {
+	if x >= y {
+		return x
+	}
+	return y
+}
+
 func max_4(x, y, z, p int) int {
 	tmp := x
 	if y > tmp {
