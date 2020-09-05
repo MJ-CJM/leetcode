@@ -11,23 +11,33 @@ type LRUCache struct {
 	head, tail *LinkNode
 }
 
-func Constructor_1(capacity int) LRUCache {
-	head := &LinkNode{0, 0, nil, nil}
-	tail := &LinkNode{0, 0, nil, nil}
+func Constructor(capacity int) LRUCache {
+	head := &LinkNode{
+		key:  0,
+		val:  0,
+		pre:  nil,
+		next: nil,
+	}
+	tail := &LinkNode{
+		key:  0,
+		val:  0,
+		pre:  nil,
+		next: nil,
+	}
 	head.next = tail
 	tail.pre = head
-	lruCache := LRUCache{
-		m:    make(map[int]*LinkNode),
+	lru := LRUCache{
+		m:    map[int]*LinkNode{},
 		cap:  capacity,
 		head: head,
 		tail: tail,
 	}
-	return lruCache
+	return lru
 }
 
 func (this *LRUCache) Get(key int) int {
 	cache := this.m
-	if v, exist := cache[key]; exist {
+	if v, ok := cache[key]; ok {
 		this.MoveToHead(v)
 		return v.val
 	} else {
@@ -39,7 +49,7 @@ func (this *LRUCache) Put(key int, value int) {
 	head := this.head
 	tail := this.tail
 	cache := this.m
-	if v, exist := cache[key]; exist {
+	if v, ok := cache[key]; ok {
 		v.val = value
 		this.MoveToHead(v)
 	} else {
@@ -67,9 +77,9 @@ func (this *LRUCache) MoveToHead(node *LinkNode) {
 	head := this.head
 	node.pre.next = node.next
 	node.next.pre = node.pre
-	// 移到首位
-	node.next = head.next
+	// 移到头部
 	head.next.pre = node
-	node.pre = head
+	node.next = head.next
 	head.next = node
+	node.pre = head
 }
