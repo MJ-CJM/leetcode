@@ -1,5 +1,7 @@
 package main
 
+import "math"
+
 //冒泡排序，a是数组，n表示数组大小
 func BubbleSort(a []int, n int) {
 	if n <= 1 {
@@ -104,4 +106,91 @@ func Merge(left []int, right []int) []int {
 		res = append(res, right[j:]...)
 	}
 	return res
+}
+
+// 堆排序
+func HeapSort(a []int, n int) []int {
+	buildheap(a, n)
+
+	tmp := []int{}
+	for i := 0; i < n; i++ {
+		tmp = append(tmp, a[0])
+		a = a[1:]
+		buildheap(a, len(a))
+	}
+	tmp2 := reverse1(tmp)
+
+	return tmp2
+}
+
+
+func reverse1(nums []int) []int {
+	n := len(nums)
+	if n <= 1{
+		return nums
+	}
+	for i, j := 0, n-1; i < j; i,j = i+1, j-1 {
+		nums[i], nums[j] = nums[j], nums[i]
+	}
+	return nums
+}
+
+func buildheap(a []int, n int) {
+	for i := n >> 1; i >= 0; i-- {
+		heapifyUpToDown(a, i, n)
+	}
+	return
+}
+
+func heapifyUpToDown(a []int, top int, n int) {
+	for i := top; i <= n >> 1; {
+		maxindex := i
+		if 2 * i < n && a[2 * i] > a[maxindex] {
+			maxindex = 2 * i
+		}
+		if 2 * i + 1 < n && a[2 * i +1] > a[maxindex] {
+			maxindex = 2 * i +1
+		}
+		if maxindex == i {
+			break
+		}
+		swap(a, i, maxindex)
+		i = maxindex
+	}
+}
+
+func swap(a []int, i int, j int) {
+	a[i], a[j] = a[j], a[i]
+}
+
+// 计数排序
+func CountingSort(a []int, n int) {
+	if n <= 1 {
+		return
+	}
+
+	// 找出最大值
+	var max = math.MinInt32
+	for i := 0; i < n; i++ {
+		if a[i] > max {
+			max = a[i]
+		}
+	}
+
+	// 构建c
+	c := make([]int, max+1)
+	for _, v := range a {
+		c[v]++
+	}
+	for i := 1; i <= max; i++ {
+		c[i] += c[i-1]
+	}
+
+	// 最终定位
+	r := make([]int, n)
+	for i := n-1; i>=0; i-- {
+		r[c[a[i]]-1] = a[i]
+		c[a[i]]--
+	}
+	copy(a, r)
 }
