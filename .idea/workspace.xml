@@ -20,35 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed0ca46a-712a-4a98-a90b-207df57e82f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/539.扫雷游戏.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二叉树/104.二叉树的最大深度.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二叉树/105.从前序与中序遍历序列构造二叉树.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二叉树/226. 翻转二叉树.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二叉树/236.二叉树的最近公共祖先.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二叉树/515.在每个树行中找最大值.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二叉树/98.验证二叉搜索树.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/贪心法/860.柠檬水找零.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/递归回溯/77..组合.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/递归回溯/60.第k个排列.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试/alibaba_teach3.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/递归回溯/46.全排列1.go" beforeDir="false" afterPath="$PROJECT_DIR$/递归回溯/46.全排列1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/递归回溯/47.全排列2.go" beforeDir="false" afterPath="$PROJECT_DIR$/递归回溯/47.全排列2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/shuru_shuzu.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试/输入数组.go" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/贪心法/860.柠檬水找零.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="656">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,33 +39,9 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>动态规划</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
-  </component>
-  <component name="GOROOT" path="D:\Go" />
+  <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/二叉树/226. 翻转二叉树.go" />
-        <option value="$PROJECT_DIR$/二叉树/98.验证二叉搜索树.go" />
-        <option value="$PROJECT_DIR$/二叉树/104.二叉树的最大深度.go" />
-        <option value="$PROJECT_DIR$/二叉树/236.二叉树的最近公共祖先.go" />
-        <option value="$PROJECT_DIR$/二叉树/105.从前序与中序遍历序列构造二叉树.go" />
-        <option value="$PROJECT_DIR$/77..go" />
-        <option value="$PROJECT_DIR$/77..组合.go" />
-        <option value="$PROJECT_DIR$/二叉树/515.在每个树行中找最大值.go" />
-        <option value="$PROJECT_DIR$/539.扫雷游戏.go" />
-        <option value="$PROJECT_DIR$/贪心法/860.柠檬水找零.go" />
-      </list>
-    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="827" />
@@ -92,25 +50,6 @@
     <option name="height" value="992" />
   </component>
   <component name="ProjectId" id="1gLoxMUOcxwOYNq7W1SQ4hyHvxK" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -120,10 +59,13 @@
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="D:/gowork/leetcode" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -132,80 +74,85 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/必会的" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="D:\github-workstation\leetcode-go\leetcode\递归回溯" />
       <recent name="D:\github-workstation\leetcode-go\leetcode\二叉树" />
       <recent name="D:\github-workstation\leetcode-go\leetcode\trie树和并查集" />
-      <recent name="D:\github-workstation\leetcode-go\leetcode\面试" />
-      <recent name="D:\github-workstation\leetcode-go\leetcode\位运算" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Go Build.go build 14.最长公共前缀.go">
-    <configuration name="go build 115.不同的子序列.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build 46.全排列1.go">
+    <configuration name="go build 46.全排列1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/递归回溯/46.全排列1.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 47.全排列2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/递归回溯/47.全排列2.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build alibaba_teach3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/面试/alibaba_teach3.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build leetcode/面试" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/字符串/115.不同的子序列.go" />
+      <filePath value="$PROJECT_DIR$/面试/alibaba_1.go" />
+      <package value="leetcode/面试" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 14.最长公共前缀.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build shuru_shuzu.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
-      <working_directory value="$PROJECT_DIR$/" />
+      <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/字符串/14.最长公共前缀.go" />
-      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/面试/shuru_shuzu.go" />
+      <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 151.翻转字符串里的单词.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build wangyi2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
-      <working_directory value="$PROJECT_DIR$/" />
+      <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/字符串/151.翻转字符串里的单词.go" />
-      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/面试/wangyi2.go" />
+      <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 387.字符串中的第一个唯一字符.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/字符串/387.字符串中的第一个唯一字符.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build leetcode/字符串" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/字符串/10.正则表达式匹配.go" />
-      <package value="leetcode/字符串" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build wangyi2.go" />
+      <item itemvalue="Go Build.go build shuru_shuzu.go" />
+      <item itemvalue="Go Build.go build alibaba_teach3.go" />
+      <item itemvalue="Go Build.go build 47.全排列2.go" />
+      <item itemvalue="Go Build.go build 46.全排列1.go" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build 14.最长公共前缀.go" />
-        <item itemvalue="Go Build.go build 115.不同的子序列.go" />
-        <item itemvalue="Go Build.go build leetcode/字符串" />
-        <item itemvalue="Go Build.go build 151.翻转字符串里的单词.go" />
-        <item itemvalue="Go Build.go build 387.字符串中的第一个唯一字符.go" />
+        <item itemvalue="Go Build.go build 46.全排列1.go" />
+        <item itemvalue="Go Build.go build 47.全排列2.go" />
+        <item itemvalue="Go Build.go build alibaba_teach3.go" />
+        <item itemvalue="Go Build.go build wangyi2.go" />
+        <item itemvalue="Go Build.go build shuru_shuzu.go" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -215,47 +162,15 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18283582" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.23892774" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -274,16 +189,18 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="520" y="387" key="#GOROOT" timestamp="1597976086656">
+    <state x="647" y="482" key="#GOROOT" timestamp="1598758105028">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="520" y="387" key="#GOROOT/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1598149986107" />
+    <state x="647" y="482" key="#GOROOT/0.0.1792.1120@0.0.1792.1120" timestamp="1598758105028" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598251035894">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="520" y="387" key="#GOROOT/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1597976086656" />
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597976167788">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1597976167788" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1598251035894" />
     <state x="406" y="96" key="#go_build_115.不同的子序列.go" timestamp="1597976174792">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -292,117 +209,69 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="406" y="97" key="#go_build_leetcode/字符串/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1597917600622" />
-    <state width="1398" height="227" key="GridCell.Tab.0.bottom" timestamp="1597976196947">
+    <state x="406" y="97" key="#go_build_leetcode/字符串_(1)" timestamp="1598251029236">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="227" key="GridCell.Tab.0.bottom/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1597976196947" />
-    <state width="1398" height="227" key="GridCell.Tab.0.center" timestamp="1597976196945">
+    <state x="406" y="97" key="#go_build_leetcode/字符串_(1)/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1598251029236" />
+    <state x="406" y="97" key="#go_build_leetcode/面试" timestamp="1598267008730">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="227" key="GridCell.Tab.0.center/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1597976196945" />
-    <state width="1398" height="227" key="GridCell.Tab.0.left" timestamp="1597976196943">
+    <state x="406" y="97" key="#go_build_leetcode/面试/0.0.1440.900@0.0.1440.900" timestamp="1598267008730" />
+    <state x="100" y="100" width="1592" height="920" key="DiffContextDialog" timestamp="1598758072552">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="100" y="100" width="1592" height="920" key="DiffContextDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1598758072552" />
+    <state width="1750" height="226" key="GridCell.Tab.0.bottom" timestamp="1599324927683">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1598322276208" />
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598269888173" />
+    <state width="1750" height="226" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1599324927683" />
+    <state width="1750" height="226" key="GridCell.Tab.0.center" timestamp="1599324927682">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.center/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1598322276206" />
+    <state width="1398" height="205" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598269888172" />
+    <state width="1750" height="226" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1599324927682" />
+    <state width="1750" height="226" key="GridCell.Tab.0.left" timestamp="1599324927681">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.left/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1598322276205" />
+    <state width="1398" height="205" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598269888171" />
+    <state width="1750" height="226" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1599324927681" />
+    <state width="1750" height="226" key="GridCell.Tab.0.right" timestamp="1599324927683">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.right/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1598322276207" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598269888172" />
+    <state width="1750" height="226" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1599324927683" />
+    <state width="1750" height="392" key="GridCell.Tab.1.bottom" timestamp="1599293669230">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1599293669230" />
+    <state width="1750" height="392" key="GridCell.Tab.1.center" timestamp="1599293669229">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1599293669229" />
+    <state width="1750" height="392" key="GridCell.Tab.1.left" timestamp="1599293669228">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1599293669228" />
+    <state width="1750" height="392" key="GridCell.Tab.1.right" timestamp="1599293669229">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1599293669229" />
+    <state x="397" y="199" key="SettingsEditor" timestamp="1598758682757">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1598758682757" />
+    <state x="421" y="205" width="598" height="490" key="find.popup" timestamp="1598194115420">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="227" key="GridCell.Tab.0.left/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1597976196943" />
-    <state width="1398" height="227" key="GridCell.Tab.0.right" timestamp="1597976196946">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="421" y="205" width="598" height="490" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1598194115420" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1599324779482">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1398" height="227" key="GridCell.Tab.0.right/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1597976196946" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/二叉树/144.二叉树的前序遍历.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-108" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/字符串/44.通配符匹配.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/二叉树/226. 翻转二叉树.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="12" selection-start-line="12" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/二叉树/94.二叉树的中序遍历.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/二叉树/98.验证二叉搜索树.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/二叉树/104.二叉树的最大深度.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="2" selection-start-line="2" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/二叉树/236.二叉树的最近公共祖先.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/二叉树/105.从前序与中序遍历序列构造二叉树.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/递归回溯/46.全排列1.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28">
-          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/递归回溯/77..组合.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/二叉树/515.在每个树行中找最大值.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="4" selection-start-line="4" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/二叉树/102.二叉树层序遍历.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-432" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/539.扫雷游戏.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/贪心法/860.柠檬水找零.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1599324779482" />
   </component>
 </project>

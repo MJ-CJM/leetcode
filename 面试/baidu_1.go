@@ -2,6 +2,54 @@ package main
 
 import "fmt"
 
+func main() {
+	var n int
+	var arr []int
+	_, _ = fmt.Scan(&n)
+	for i := 0; i < n; i++ {
+		var x int
+		_, _ = fmt.Scan(&x)
+		arr = append(arr, x)
+	}
+	res := solve(n, arr)
+	fmt.Printf("%d", res)
+}
+
+func solve(n int, arr []int) int {
+	if n <= 2 {
+		return -1
+	}
+	res := 0
+	for i := n; i >= 1; i-- {
+		tmp := arr[:i]
+		out := permuteUnique(tmp)
+		if len(out) != 0 {
+			for j := 0; j < len(out); j++ {
+				linshi := count(out[j])
+				if linshi % 90 == 0{
+					if linshi > res {
+						res = linshi
+					}
+				}
+			}
+		}
+		if res != 0 {
+			break
+		}
+	}
+	return res
+}
+
+func count(nums []int) int {
+	n := len(nums)
+	res := 0
+	for i := 0; i < n; i++ {
+		res = res * 10 + nums[i]
+	}
+	return res
+}
+
+
 func permuteUnique(nums []int) [][]int {
 	n := len(nums)
 	level := 0
@@ -43,9 +91,4 @@ func _is_in(result [][]int, iterm []int) bool{
 		}
 	}
 	return false
-}
-
-func main() {
-	sum := []int{1, 2, 3}
-	fmt.Println(permuteUnique(sum))
 }
