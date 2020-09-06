@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func permute(nums []int) [][]int {
 	n := len(nums)

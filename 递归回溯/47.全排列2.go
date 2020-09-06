@@ -46,6 +46,6 @@ func _is_in(result [][]int, iterm []int) bool{
 }
 
 func main() {
-	sum := []int{1, 1, 2}
+	sum := []int{1, 2, 3}
 	fmt.Println(permuteUnique(sum))
 }
