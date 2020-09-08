@@ -58,3 +58,80 @@ func (u *UnionFind) Find(i int) int {
 	}
 	return root
 }
+
+
+// 无递归并查集
+func findCircleNum1(M [][]int) int {
+	n := len(M)
+	p := make([]*[]int, n)
+	for i := 0; i < n; i++ {
+		p[i] = &[]int{i}
+	}
+	ans := n
+	for i := 0; i < n; i++ {
+		for j := i; j < n; j++ {
+			i, j := i, j
+			if M[i][j] == 1 && p[i] != p[j] {
+				if len(*p[i]) < len(*p[j]) {
+					i, j = j, i
+				}
+				*p[i] = append(*p[i], *p[j]...)
+				for _, k := range *p[j] {
+					p[k] = p[i]
+				}
+				ans--
+			}
+		}
+	}
+	return ans
+}
+
+// 深度优先遍历
+func findCircleNum2(M [][]int) int {
+	ans, v := 0, make([]bool, len(M))
+	var f func(int); f = func(i int) {
+		for j := range M {
+			if M[i][j] == 1 && !v[j] {
+				v[j] = true
+				f(j)
+			}
+		}
+	}
+	for i := range M {
+		if !v[i] {
+			v[i] = true
+			f(i)
+			ans++
+		}
+	}
+	return ans
+}
+
+// 传统并查集
+func findCircleNum3(M [][]int) int {
+	n := len(M)
+	p := make([]int, n)
+	for i := 0; i < n; i++ {
+		p[i] = i
+	}
+	ans := n
+	for i := 0; i < n; i++ {
+		for j := 0; j < n; j++ {
+			if M[i][j] == 1 {
+				pi, pj := f(p, i), f(p, j)
+				if pi != pj {
+					p[pj] = pi
+					ans--
+				}
+			}
+		}
+	}
+	return ans
+}
+
+func f(p []int,x int) int {
+	if p[x] != x {
+		p[x] = f(p, p[x])
+	}
+	return p[x]
+}

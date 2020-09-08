@@ -1,6 +1,6 @@
 package main
 
-func maxSlidingWindow(nums []int, k int) []int {
+func maxSlidingWindow_1(nums []int, k int) []int {
 	if nums == nil{
 		return []int{}
 	}

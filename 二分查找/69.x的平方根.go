@@ -21,7 +21,7 @@ func mySqrt(x int) int {
 }
 
 // 牛顿迭代法
-func NewDun(x int) in {
+func NewDun(x int) int {
 	r := x
 	for r * r > x{
 		r = (r + x/r) / 2
