@@ -20,27 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed0ca46a-712a-4a98-a90b-207df57e82f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/trie树和并查集/并查集-778.水位上升的泳池中游泳.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图/802.找到最终的安全状态.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/tengxun_1.1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/tengxun_1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/tengxun_2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/tengxun_3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/tengxun_4.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/tengxun_5.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/xiaohongshu.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/xiaohongshu3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/xiaomi_1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/xiecheng2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/xiecheng_1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/xioami_2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/必会的/tree.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/239.滑动窗口.go" beforeDir="false" afterPath="$PROJECT_DIR$/239.滑动窗口.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/24.两两交换链表中的节点.go" beforeDir="false" afterPath="$PROJECT_DIR$/24.两两交换链表中的节点.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33.搜索旋转排序数组.go" beforeDir="false" afterPath="$PROJECT_DIR$/二分查找/33.搜索旋转排序数组.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/69.x的平方根.go" beforeDir="false" afterPath="$PROJECT_DIR$/二分查找/69.x的平方根.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/78.字集.go" beforeDir="false" afterPath="$PROJECT_DIR$/递归回溯/78.字集.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trie树和并查集/并查集-547.朋友圈.go" beforeDir="false" afterPath="$PROJECT_DIR$/trie树和并查集/并查集-547.朋友圈.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/二叉树/102.二叉树层序遍历.go" beforeDir="false" afterPath="$PROJECT_DIR$/二叉树/102.二叉树层序遍历.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/二叉树/236.二叉树的最近公共祖先.go" beforeDir="false" afterPath="$PROJECT_DIR$/二叉树/236.二叉树的最近公共祖先.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,30 +208,30 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="100" y="100" width="1592" height="920" key="DiffContextDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1598758072552" />
-    <state width="1750" height="226" key="GridCell.Tab.0.bottom" timestamp="1599569497270">
+    <state width="1750" height="226" key="GridCell.Tab.0.bottom" timestamp="1599572499373">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1598322276208" />
     <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598269888173" />
-    <state width="1750" height="226" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1599569497270" />
-    <state width="1750" height="226" key="GridCell.Tab.0.center" timestamp="1599569497268">
+    <state width="1750" height="226" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1599572499373" />
+    <state width="1750" height="226" key="GridCell.Tab.0.center" timestamp="1599572499372">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="1398" height="205" key="GridCell.Tab.0.center/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1598322276206" />
     <state width="1398" height="205" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598269888172" />
-    <state width="1750" height="226" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1599569497268" />
-    <state width="1750" height="226" key="GridCell.Tab.0.left" timestamp="1599569497267">
+    <state width="1750" height="226" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1599572499372" />
+    <state width="1750" height="226" key="GridCell.Tab.0.left" timestamp="1599572499371">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="1398" height="205" key="GridCell.Tab.0.left/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1598322276205" />
     <state width="1398" height="205" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598269888171" />
-    <state width="1750" height="226" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1599569497267" />
-    <state width="1750" height="226" key="GridCell.Tab.0.right" timestamp="1599569497269">
+    <state width="1750" height="226" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1599572499371" />
+    <state width="1750" height="226" key="GridCell.Tab.0.right" timestamp="1599572499373">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="1398" height="205" key="GridCell.Tab.0.right/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1598322276207" />
     <state width="1398" height="205" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598269888172" />
-    <state width="1750" height="226" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1599569497269" />
+    <state width="1750" height="226" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1599572499373" />
     <state width="1750" height="392" key="GridCell.Tab.1.bottom" timestamp="1599566350518">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
