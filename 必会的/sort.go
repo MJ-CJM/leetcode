@@ -123,18 +123,6 @@ func HeapSort(a []int, n int) []int {
 	return tmp2
 }
 
-
-func reverse1(nums []int) []int {
-	n := len(nums)
-	if n <= 1{
-		return nums
-	}
-	for i, j := 0, n-1; i < j; i,j = i+1, j-1 {
-		nums[i], nums[j] = nums[j], nums[i]
-	}
-	return nums
-}
-
 func buildheap(a []int, n int) {
 	for i := n >> 1; i >= 0; i-- {
 		heapifyUpToDown(a, i, n)
@@ -158,6 +146,19 @@ func heapifyUpToDown(a []int, top int, n int) {
 		i = maxindex
 	}
 }
+
+
+func reverse1(nums []int) []int {
+	n := len(nums)
+	if n <= 1{
+		return nums
+	}
+	for i, j := 0, n-1; i < j; i,j = i+1, j-1 {
+		nums[i], nums[j] = nums[j], nums[i]
+	}
+	return nums
+}
+
 
 func swap(a []int, i int, j int) {
 	a[i], a[j] = a[j], a[i]

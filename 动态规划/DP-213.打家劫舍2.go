@@ -14,12 +14,12 @@ func rob3(nums []int) int {
 	dp1 := make([]int, n)
 	dp2 := make([]int, n)
 	dp1[0] = nums[0]
-	dp1[1] = max_int(nums[0], nums[1])
+	dp1[1] = max_int2(nums[0], nums[1])
 	dp2[0] = 0
 	dp2[1] = nums[1]
 	for i := 2; i < n; i++ {
-		dp1[i] = max_int(dp1[i-1], dp1[i-2]+nums[i])
-		dp2[i] = max_int(dp2[i-1], dp2[i-2]+nums[i])
+		dp1[i] = max_int2(dp1[i-1], dp1[i-2]+nums[i])
+		dp2[i] = max_int2(dp2[i-1], dp2[i-2]+nums[i])
 	}
-	return max_int(dp1[n-2], dp2[n-1])
+	return max_int2(dp1[n-2], dp2[n-1])
 }
