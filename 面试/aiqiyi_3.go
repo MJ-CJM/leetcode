@@ -7,6 +7,38 @@ import (
 	"strings"
 )
 
+func main() {
+	var c byte
+	var err error
+	var b []int
+	var d []string
+	for ; err == nil; {
+		_, err = fmt.Scanf("%c", &c)
+
+		str := string(c)
+		if str != "\n" {
+			d = append(d, str)
+		} else {
+			break;
+		}
+	}
+	s := strings.Join(d, "")
+	s_l := strings.Split(s, " ")
+	for _, v := range s_l {
+		x, _ := strconv.Atoi(v)
+		b = append(b, x)
+	}
+	res := threeSum(b)
+	n := len(res)
+	m := len(res[0])
+	for i := 0; i < n; i++ {
+		for j := 0; j < m; j++ {
+			fmt.Printf("%d ", res[i][j])
+		}
+		fmt.Println()
+	}
+}
+
 func threeSum(nums []int) [][]int {
 	n := len(nums)
 	sort.Ints(nums)
@@ -45,26 +77,3 @@ func threeSum(nums []int) [][]int {
 	return output
 }
 
-func main() {
-	var c byte
-	var err error
-	var b []int
-	var d []string
-	for ; err == nil; {
-		_, err = fmt.Scanf("%c", &c)
-
-		str := string(c)
-		if str != "\n" {
-			d = append(d, str)
-		} else {
-			break;
-		}
-	}
-	s := strings.Join(d, "")
-	s_l := strings.Split(s, " ")
-	for _, v := range s_l {
-		x, _ := strconv.Atoi(v)
-		b = append(b, x)
-	}
-	fmt.Println(b)
-}
