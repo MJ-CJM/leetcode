@@ -3,9 +3,8 @@ package main
 import "fmt"
 
 func main(){
-	l := []int{1, 2, 2, 3}
-	l = quchong1(l)
-	fmt.Println(l)
+	a := 'A'
+	fmt.Println(string(a+1))
 }
 
 func quchong1(list []int) []int {
