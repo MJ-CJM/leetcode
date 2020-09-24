@@ -64,11 +64,3 @@ func matches(s, p string,  i, j int) bool {
 	}
 	return s[i-1] == p[j-1]
 }
-
-//package main
-//
-//import "fmt"
-//
-//func main() {
-//	fmt.Printf("%s", "true")
-//}
