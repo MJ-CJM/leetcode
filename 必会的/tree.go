@@ -38,7 +38,7 @@ func PreOrderTravel(root *TreeNode) []int {
 	if root == nil {
 		return []int{}
 	}
-	if root.Left != nil && root.Right != nil {
+	if root.Left == nil && root.Right == nil {
 		return []int{root.Val}
 	}
 	stack := []*TreeNode{root}
@@ -100,7 +100,7 @@ func InOrderTravel(root *TreeNode) []int {
 // 递归
 func PostOrderTravel_1(root *TreeNode) []int {
 	if root == nil {
-		return nil
+		return []int{}
 	}
 	var res []int
 	if root.Left != nil {
@@ -118,7 +118,7 @@ func PostOrderTravel_1(root *TreeNode) []int {
 // 迭代
 func PostOrderTravel(root *TreeNode) []int {
 	if root == nil {
-		return nil
+		return []int{}
 	}
 	stack := []*TreeNode{root}
 	res := []int{}
@@ -133,5 +133,16 @@ func PostOrderTravel(root *TreeNode) []int {
 		}
 		res = append(res, tmp.Val)
 	}
-	return reverse1(res)
+	return reverse(res)
+}
+
+func reverse(nums []int) []int {
+	n := len(nums)
+	if n <= 1 {
+		return nums
+	}
+	for i, j := 0, n-1; i < j; i, j = i+1, j-1 {
+		nums[i], nums[j] = nums[j], nums[i]
+	}
+	return nums
 }

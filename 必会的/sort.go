@@ -2,7 +2,7 @@ package main
 
 import "math"
 
-//冒泡排序，a是数组，n表示数组大小
+//冒泡排序, n*n, 稳定， 原地
 func BubbleSort(a []int, n int) {
 	if n <= 1 {
 		return
@@ -22,7 +22,7 @@ func BubbleSort(a []int, n int) {
 	return
 }
 
-// 插入排序，a表示数组，n表示数组大小
+// 插入排序, n*n, 稳点， 原地
 func InsertionSort(a []int, n int) {
 	if n <= 1 {
 		return
@@ -37,7 +37,7 @@ func InsertionSort(a []int, n int) {
 	return
 }
 
-// 选择排序
+// 选择排序, n*n, 不稳定, 原地
 func SelectSort(a []int, n int) []int {
 	if n <= 1 {
 		return a
@@ -54,7 +54,7 @@ func SelectSort(a []int, n int) []int {
 	return a
 }
 
-// 快排
+// 快排, nlogn, 不稳定, 原地
 func QuickSort(a []int) []int {
 	if len(a) <= 1 {
 		return a
@@ -73,7 +73,7 @@ func QuickSort(a []int) []int {
 	}
 }
 
-// 两路归并排序
+// 两路归并排序, nlogn, 稳定, 非原地
 func MergeSort(a []int) []int {
 	if len(a) <= 1 {
 		return a
@@ -108,19 +108,16 @@ func Merge(left []int, right []int) []int {
 	return res
 }
 
-// 堆排序
+// 堆排序, nlogn, 不稳定， 原地
 func HeapSort(a []int, n int) []int {
 	buildheap(a, n)
 
-	tmp := []int{}
 	for i := 0; i < n; i++ {
-		tmp = append(tmp, a[0])
-		a = a[1:]
-		buildheap(a, len(a))
+		swap(a, 0, n-i-1)
+		buildheap(a[:n-i-1], n-i-1)
 	}
-	tmp2 := reverse1(tmp)
 
-	return tmp2
+	return a
 }
 
 func buildheap(a []int, n int) {
@@ -147,24 +144,11 @@ func heapifyUpToDown(a []int, top int, n int) {
 	}
 }
 
-
-func reverse1(nums []int) []int {
-	n := len(nums)
-	if n <= 1{
-		return nums
-	}
-	for i, j := 0, n-1; i < j; i,j = i+1, j-1 {
-		nums[i], nums[j] = nums[j], nums[i]
-	}
-	return nums
-}
-
-
 func swap(a []int, i int, j int) {
 	a[i], a[j] = a[j], a[i]
 }
 
-// 计数排序
+// 计数排序, n+k, 稳定, 非原地
 func CountingSort(a []int, n int) {
 	if n <= 1 {
 		return

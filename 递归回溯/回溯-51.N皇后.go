@@ -22,9 +22,7 @@ func dfs_process(n int, row int, iterm []int, cols *[]int, pie *[]int, na *[]int
 	// terminator
 	if row >= n{
 		tmp := make([]int, n)
-		for i, v := range iterm{
-			tmp[i] = v
-		}
+		copy(tmp, iterm)
 		*pre_result = append(*pre_result, tmp)
 		return
 	}
