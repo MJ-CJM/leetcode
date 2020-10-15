@@ -20,24 +20,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed0ca46a-712a-4a98-a90b-207df57e82f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/34.在排序数组中查找元素的第一个和最后一个位置.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/39.组合总和.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/42.接雨水.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/48.旋转图像.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/剑指offer/10-1.斐波那契数列.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/剑指offer/10-2.青蛙跳台阶问题.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/剑指offer/4.二维数组中的查找.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/剑指offer/7.重建二叉树.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/剑指offer/9.用两个栈实现队列.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动态规划/64.最小路径和.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多线程/waitgroup.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/11.旋转数组的最小数字.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/12.矩阵中的路径.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/13.机器人的运动范围.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/14-1.剪绳子.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/14-2.剪绳子2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/15.二进制中1的个数.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/16.数值的整数次方.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/18.删除链表的节点.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/19.正则表达式匹配.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/20.表示数值的字符串.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/21.调整整数顺序使奇数位于偶数前面.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/26.树的结构.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/28.对称的二叉树.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/29.顺时针打印矩阵.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/30.包含min函数的栈.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/位运算/位运算-190.颠倒二进制位.go" beforeDir="false" afterPath="$PROJECT_DIR$/位运算/位运算-190.颠倒二进制位.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/位运算/位运算-191.位1的个数.go" beforeDir="false" afterPath="$PROJECT_DIR$/位运算/位运算-191.位1的个数.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程/线程池.go" beforeDir="false" afterPath="$PROJECT_DIR$/多线程/线程池.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/必会的/sort.go" beforeDir="false" afterPath="$PROJECT_DIR$/必会的/sort.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/必会的/tree.go" beforeDir="false" afterPath="$PROJECT_DIR$/必会的/tree.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/递归回溯/回溯-51.N皇后.go" beforeDir="false" afterPath="$PROJECT_DIR$/递归回溯/回溯-51.N皇后.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/顺序遍历数组.go" beforeDir="false" afterPath="$PROJECT_DIR$/顺时针遍历数组.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +91,7 @@
       <recent name="$PROJECT_DIR$/必会的" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build 回溯-51.N皇后.go">
+  <component name="RunManager" selected="Go Build.go build 19.正则表达式匹配.go">
     <configuration name="go build 回溯-51.N皇后.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <working_directory value="$PROJECT_DIR$" />
@@ -101,11 +100,19 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 13.罗马数字转整数.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 13.机器人的运动范围.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/13.罗马数字转整数.go" />
+      <filePath value="$PROJECT_DIR$/剑指offer/13.机器人的运动范围.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 19.正则表达式匹配.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/剑指offer/19.正则表达式匹配.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -134,17 +141,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build 13.罗马数字转整数.go" />
       <item itemvalue="Go Build.go build 31.下一个排列.go" />
       <item itemvalue="Go Build.go build 交替打印.go" />
       <item itemvalue="Go Build.go build 回溯-51.N皇后.go" />
+      <item itemvalue="Go Build.go build 13.机器人的运动范围.go" />
+      <item itemvalue="Go Build.go build 19.正则表达式匹配.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 19.正则表达式匹配.go" />
+        <item itemvalue="Go Build.go build 13.机器人的运动范围.go" />
         <item itemvalue="Go Build.go build 回溯-51.N皇后.go" />
         <item itemvalue="Go Build.go build 交替打印.go" />
         <item itemvalue="Go Build.go build 31.下一个排列.go" />
-        <item itemvalue="Go Build.go build 13.罗马数字转整数.go" />
       </list>
     </recent_temporary>
   </component>
@@ -223,57 +232,57 @@
     </state>
     <state x="1899" y="96" width="1706" height="888" key="DiffContextDialog/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1599724753770" />
     <state x="100" y="100" width="1592" height="920" key="DiffContextDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1598758072552" />
-    <state width="1750" height="235" key="GridCell.Tab.0.bottom" timestamp="1602259473845">
+    <state width="1750" height="236" key="GridCell.Tab.0.bottom" timestamp="1602340617294">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1598322276208" />
     <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598269888173" />
-    <state width="1750" height="236" key="GridCell.Tab.0.bottom/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1602167898240" />
+    <state width="1750" height="236" key="GridCell.Tab.0.bottom/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1602340617294" />
     <state width="1878" height="226" key="GridCell.Tab.0.bottom/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1599721654177" />
     <state width="1750" height="235" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1602259473845" />
-    <state width="1750" height="235" key="GridCell.Tab.0.center" timestamp="1602259473844">
+    <state width="1750" height="236" key="GridCell.Tab.0.center" timestamp="1602340617278">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="1398" height="205" key="GridCell.Tab.0.center/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1598322276206" />
     <state width="1398" height="205" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598269888172" />
-    <state width="1750" height="236" key="GridCell.Tab.0.center/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1602167898238" />
+    <state width="1750" height="236" key="GridCell.Tab.0.center/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1602340617278" />
     <state width="1878" height="226" key="GridCell.Tab.0.center/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1599721654176" />
     <state width="1750" height="235" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1602259473844" />
-    <state width="1750" height="235" key="GridCell.Tab.0.left" timestamp="1602259473844">
+    <state width="1750" height="236" key="GridCell.Tab.0.left" timestamp="1602340617277">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="1398" height="205" key="GridCell.Tab.0.left/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1598322276205" />
     <state width="1398" height="205" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598269888171" />
-    <state width="1750" height="236" key="GridCell.Tab.0.left/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1602167898237" />
+    <state width="1750" height="236" key="GridCell.Tab.0.left/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1602340617277" />
     <state width="1878" height="226" key="GridCell.Tab.0.left/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1599721654175" />
     <state width="1750" height="235" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1602259473844" />
-    <state width="1750" height="235" key="GridCell.Tab.0.right" timestamp="1602259473845">
+    <state width="1750" height="236" key="GridCell.Tab.0.right" timestamp="1602340617293">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="1398" height="205" key="GridCell.Tab.0.right/0.0.1440.900/-1080.-1020.1080.1920/0.-1080.1920.1080@0.0.1440.900" timestamp="1598322276207" />
     <state width="1398" height="205" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598269888172" />
-    <state width="1750" height="236" key="GridCell.Tab.0.right/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1602167898239" />
+    <state width="1750" height="236" key="GridCell.Tab.0.right/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1602340617293" />
     <state width="1878" height="226" key="GridCell.Tab.0.right/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1599721654176" />
     <state width="1750" height="235" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1602259473845" />
-    <state width="1750" height="235" key="GridCell.Tab.1.bottom" timestamp="1602259473848">
+    <state width="1750" height="284" key="GridCell.Tab.1.bottom" timestamp="1602321997140">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="235" key="GridCell.Tab.1.bottom/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1602073111944" />
+    <state width="1750" height="284" key="GridCell.Tab.1.bottom/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1602321997140" />
     <state width="1750" height="235" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1602259473848" />
-    <state width="1750" height="235" key="GridCell.Tab.1.center" timestamp="1602259473847">
+    <state width="1750" height="284" key="GridCell.Tab.1.center" timestamp="1602321997138">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="235" key="GridCell.Tab.1.center/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1602073111943" />
+    <state width="1750" height="284" key="GridCell.Tab.1.center/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1602321997138" />
     <state width="1750" height="235" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1602259473847" />
-    <state width="1750" height="235" key="GridCell.Tab.1.left" timestamp="1602259473846">
+    <state width="1750" height="284" key="GridCell.Tab.1.left" timestamp="1602321997137">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="235" key="GridCell.Tab.1.left/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1602073111942" />
+    <state width="1750" height="284" key="GridCell.Tab.1.left/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1602321997137" />
     <state width="1750" height="235" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1602259473846" />
-    <state width="1750" height="235" key="GridCell.Tab.1.right" timestamp="1602259473847">
+    <state width="1750" height="284" key="GridCell.Tab.1.right" timestamp="1602321997139">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="235" key="GridCell.Tab.1.right/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1602073111943" />
+    <state width="1750" height="284" key="GridCell.Tab.1.right/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1602321997139" />
     <state width="1750" height="235" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1602259473847" />
     <state x="397" y="199" key="SettingsEditor" timestamp="1602295909448">
       <screen x="0" y="0" width="1792" height="1120" />
