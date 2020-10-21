@@ -1,9 +1,11 @@
 package main
 
+import "fmt"
+
 // 纯BFS
 func ladderLength(beginWord string, endWord string, wordList []string) int {
 	// 迭代wordList，把每个word都添加到匹配索引的列表中
-	wdict := map[string][]int{}
+	wdict := make(map[string][]int)
 	for id, w := range wordList {
 		for i := range w {
 			k := w[0:i] + "*" + w[i+1:]
@@ -40,5 +42,12 @@ func ladderLength(beginWord string, endWord string, wordList []string) int {
 		q = nextQ // BFS套路第五招，既然本层没找到，那么准备迭代下一层吧
 	}
 	return 0 // 一无所获
+}
+
+func main() {
+	beginWord := "hit"
+	endWord := "cog"
+	wordList := []string{"hot","dot","dog","lot","log","cog"}
+	fmt.Println(ladderLength(beginWord, endWord, wordList))
 }
 

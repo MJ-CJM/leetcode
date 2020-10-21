@@ -60,6 +60,9 @@ func _dfspath(m int, n int, result [][]int) int{
 }
 
 // 递推
+// 动态规划
+// 定义状态：dp[i][j]
+// 状态转移方程：dp[i][j] = dp[i-1][j] + dp[i][j-1]
 func uniquePath(m int, n int) int{
 	if m <= 0 || n <= 0{
 		return 0

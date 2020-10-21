@@ -1,7 +1,7 @@
 package main
 
 // Definition for a binary tree node.
-type TreeNode struct {
+type TreeNode1 struct {
 	Val int
 	Left *TreeNode
 	Right *TreeNode

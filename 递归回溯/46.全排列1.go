@@ -16,9 +16,9 @@ func permute(nums []int) [][]int {
 func _dfs_all(nums []int, iterm []int, level int, n int, result *[][]int) {
 	// terminator
 	if level == n{
-		tmp := make([]int, n)
-		copy(tmp, iterm)
-		*result = append(*result, tmp)
+		//tmp := make([]int, n)
+		//copy(tmp, iterm)
+		*result = append(*result, iterm)
 		return
 	}
 	// process && drill down

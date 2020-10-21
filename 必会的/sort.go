@@ -1,6 +1,8 @@
 package main
 
-//冒泡排序，a是数组，n表示数组大小
+import "math"
+
+//冒泡排序, n*n, 稳定， 原地
 func BubbleSort(a []int, n int) {
 	if n <= 1 {
 		return
@@ -20,7 +22,7 @@ func BubbleSort(a []int, n int) {
 	return
 }
 
-// 插入排序，a表示数组，n表示数组大小
+// 插入排序, n*n, 稳点， 原地
 func InsertionSort(a []int, n int) {
 	if n <= 1 {
 		return
@@ -35,7 +37,7 @@ func InsertionSort(a []int, n int) {
 	return
 }
 
-// 选择排序
+// 选择排序, n*n, 不稳定, 原地
 func SelectSort(a []int, n int) []int {
 	if n <= 1 {
 		return a
@@ -52,7 +54,7 @@ func SelectSort(a []int, n int) []int {
 	return a
 }
 
-// 快排
+// 快排, nlogn, 不稳定, 原地
 func QuickSort(a []int) []int {
 	if len(a) <= 1 {
 		return a
@@ -71,7 +73,7 @@ func QuickSort(a []int) []int {
 	}
 }
 
-// 两路归并排序
+// 两路归并排序, nlogn, 稳定, 非原地
 func MergeSort(a []int) []int {
 	if len(a) <= 1 {
 		return a
@@ -104,4 +106,76 @@ func Merge(left []int, right []int) []int {
 		res = append(res, right[j:]...)
 	}
 	return res
+}
+
+// 堆排序, nlogn, 不稳定， 原地
+func HeapSort(a []int, n int) []int {
+	buildheap(a, n)
+
+	for i := 0; i < n; i++ {
+		swap(a, 0, n-i-1)
+		buildheap(a[:n-i-1], n-i-1)
+	}
+
+	return a
+}
+
+func buildheap(a []int, n int) {
+	for i := n >> 1; i >= 0; i-- {
+		heapifyUpToDown(a, i, n)
+	}
+	return
+}
+
+func heapifyUpToDown(a []int, top int, n int) {
+	for i := top; i <= n >> 1; {
+		maxindex := i
+		if 2 * i < n && a[2 * i] > a[maxindex] {
+			maxindex = 2 * i
+		}
+		if 2 * i + 1 < n && a[2 * i +1] > a[maxindex] {
+			maxindex = 2 * i +1
+		}
+		if maxindex == i {
+			break
+		}
+		swap(a, i, maxindex)
+		i = maxindex
+	}
+}
+
+func swap(a []int, i int, j int) {
+	a[i], a[j] = a[j], a[i]
+}
+
+// 计数排序, n+k, 稳定, 非原地
+func CountingSort(a []int, n int) {
+	if n <= 1 {
+		return
+	}
+
+	// 找出最大值
+	var max = math.MinInt32
+	for i := 0; i < n; i++ {
+		if a[i] > max {
+			max = a[i]
+		}
+	}
+
+	// 构建c
+	c := make([]int, max+1)
+	for _, v := range a {
+		c[v]++
+	}
+	for i := 1; i <= max; i++ {
+		c[i] += c[i-1]
+	}
+
+	// 最终定位
+	r := make([]int, n)
+	for i := n-1; i>=0; i-- {
+		r[c[a[i]]-1] = a[i]
+		c[a[i]]--
+	}
+	copy(a, r)
 }

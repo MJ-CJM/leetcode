@@ -1,6 +1,11 @@
 package main
 
-import "sort"
+import (
+	"fmt"
+	"sort"
+	"strconv"
+	"strings"
+)
 
 func threeSum(nums []int) [][]int {
 	n := len(nums)
@@ -38,4 +43,28 @@ func threeSum(nums []int) [][]int {
 		}
 	}
 	return output
+}
+
+func main() {
+	var c byte
+	var err error
+	var b []int
+	var d []string
+	for ; err == nil; {
+		_, err = fmt.Scanf("%c", &c)
+
+		str := string(c)
+		if str != "\n" {
+			d = append(d, str)
+		} else {
+			break;
+		}
+	}
+	s := strings.Join(d, "")
+	s_l := strings.Split(s, " ")
+	for _, v := range s_l {
+		x, _ := strconv.Atoi(v)
+		b = append(b, x)
+	}
+	fmt.Println(b)
 }

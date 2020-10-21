@@ -20,7 +20,4 @@ func lowestCommonAncestor(root, p, q *TreeNode) *TreeNode {
 		// 左右都找到了，那说明我就是公共祖先喽
 		return root
 	}
-
 }
-
-//

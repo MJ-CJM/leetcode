@@ -43,6 +43,8 @@ package main
 //}
 
 // 动态规划,递推
+// 定义状态：dp[i][j]
+// 状态转移方程：dp[i][j] = dp[i-1][j] + dp[i][j-1] (判断元素是否为1， 为1则dp[i][j]=0)
 func uniquePathsWithObstacles(obstacleGrid [][]int) int {
 	if obstacleGrid[0][0] == 1{
 		return 0

@@ -21,10 +21,10 @@ func rob(nums []int) int {
 	a[0][0] = 0
 	a[0][1] = nums[0]
 	for i := 1; i < n; i++ {
-		a[i][0] = max_int(a[i-1][0], a[i-1][1])
+		a[i][0] = max_int2(a[i-1][0], a[i-1][1])
 		a[i][1] = a[i-1][0] + nums[i]
 	}
-	return max_int(a[n-1][0], a[n-1][1])
+	return max_int2(a[n-1][0], a[n-1][1])
 }
 
 func rob2(nums []int) int{
