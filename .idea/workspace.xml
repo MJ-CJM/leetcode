@@ -28,6 +28,7 @@
       <change afterPath="$PROJECT_DIR$/剑指offer/41.数据流中的中位数.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/剑指offer/42.连续子数组的最大和.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/剑指offer/43.1~n整数中1出现的次数.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/44.数字序列中某一位的数字.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/剑指offer/50.第一个只出现一次的字符.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
