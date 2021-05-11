@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed0ca46a-712a-4a98-a90b-207df57e82f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/剑指offer/52. 两个链表的第一个公共节点.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/53 - I. 在排序数组中查找数字 I.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/53 - II. 0～n-1中缺失的数字.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/54. 二叉搜索树的第k大节点.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指offer/52. 两个链表的第一个公共节点.go" beforeDir="false" afterPath="$PROJECT_DIR$/剑指offer/52. 两个链表的第一个公共节点.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
