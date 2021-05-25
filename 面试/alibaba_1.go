@@ -5,11 +5,11 @@ import "fmt"
 func main() {
 	var a, b, A, B int
 	_, _ = fmt.Scan(&A, &B, &a, &b)
-	x, y := max_compute(A, B, a, b)
+	x, y := max_compute_1(A, B, a, b)
 	fmt.Printf("%d %d", x, y)
 }
 
-func max_compute(A int, B int, a int, b int) (int, int) {
+func max_compute_1(A int, B int, a int, b int) (int, int) {
 	var x int
 	var y int
 	for i := B; i >= 1; i-- {
