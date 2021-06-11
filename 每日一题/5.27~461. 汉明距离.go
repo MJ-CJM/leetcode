@@ -56,6 +56,23 @@ func convertToBin(num int) []string {
 	return strings.Split(str, "")
 }
 
+// 移位实现位计数
+func hammingDistance_2(x int, y int) (ans int) {
+	for s := x ^ y; s > 0; s >>= 1 {
+		ans += s & 1
+	}
+	return
+}
+
+// 对于移位计数的优化，在方法二中，对于 s=(10001100)_2s=(10001100)
+// 的情况，我们需要循环右移 88 次才能得到答案。而实际上如果我们可以跳过两个 11 之间的 00，直接对 11 进行计数，那么就只需要循环 33 次即可。
+func hammingDistance_3(x int, y int) (ans int) {
+	for s := x ^ y; s > 0; s &= s - 1 {
+		ans++
+	}
+	return
+}
+
 func main() {
 	fmt.Println(convertToBin(5))
 }
