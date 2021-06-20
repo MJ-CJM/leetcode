@@ -20,13 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed0ca46a-712a-4a98-a90b-207df57e82f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/剑指offer/62. 圆圈中最后剩下的数字.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/每日一题/5.28~477. 汉明距离总和.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/每日一题/6.10~518. 零钱兑换 II.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/每日一题/6.11~279. 完全平方数.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/6.14~374. 猜数字大小.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/6.15~852. 山脉数组的峰顶索引.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/6.16~877. 石子游戏.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/6.17~65. 有效数字.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/6.18~483. 最小好进制.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/6.19~1239. 串联字符串的最大长度.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/状态机/65.有效数字.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/剑指offer/61. 扑克牌中的顺子.go" beforeDir="false" afterPath="$PROJECT_DIR$/剑指offer/61. 扑克牌中的顺子.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日一题/5.27~461. 汉明距离.go" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/5.27~461. 汉明距离.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/二分查找/153.寻找旋转排序数组中的最小值.go" beforeDir="false" afterPath="$PROJECT_DIR$/二分查找/153.寻找旋转排序数组中的最小值.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
