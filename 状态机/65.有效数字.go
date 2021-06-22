@@ -4,7 +4,12 @@
 // @File : leetcode/65.有效数字
 package main
 
-import "strings"
+import (
+	"fmt"
+	"reflect"
+	"strconv"
+	"strings"
+)
 
 var (
 	blank  = 0 // 空格
@@ -53,4 +58,10 @@ func isNumber_2(s string) bool {
 		}
 	}
 	return state == digit1 || state == digit2 || state == digit3
+}
+
+func main() {
+	c := 12
+	s := strconv.Itoa(c)
+	fmt.Println(s, reflect.TypeOf(s))
 }
