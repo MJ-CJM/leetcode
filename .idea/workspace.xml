@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed0ca46a-712a-4a98-a90b-207df57e82f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/剑指offer/52. 两个链表的第一个公共节点.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,41 +75,61 @@
       <recent name="$PROJECT_DIR$/必会的" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build 40.最小的k个数.go">
-    <configuration name="go build 13.机器人的运动范围.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build 6.22~ Offer 38. 字符串的排列.go">
+    <configuration name="go build 5.27~461. 汉明距离.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/剑指offer/13.机器人的运动范围.go" />
+      <filePath value="$PROJECT_DIR$/每日一题/5.27~461. 汉明距离.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 279.完全平方数.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 65.有效数字.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/动态规划/279.完全平方数.go" />
+      <filePath value="$PROJECT_DIR$/状态机/65.有效数字.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 40.最小的k个数.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 6.21~401. 二进制手表.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/剑指offer/40.最小的k个数.go" />
+      <filePath value="$PROJECT_DIR$/每日一题/6.21~401. 二进制手表.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 6.22~ Offer 38. 字符串的排列.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/每日一题/6.22~ Offer 38. 字符串的排列.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 78.字集.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/递归回溯/78.字集.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build 13.机器人的运动范围.go" />
-      <item itemvalue="Go Build.go build 279.完全平方数.go" />
-      <item itemvalue="Go Build.go build 40.最小的k个数.go" />
+      <item itemvalue="Go Build.go build 5.27~461. 汉明距离.go" />
+      <item itemvalue="Go Build.go build 78.字集.go" />
+      <item itemvalue="Go Build.go build 65.有效数字.go" />
+      <item itemvalue="Go Build.go build 6.21~401. 二进制手表.go" />
+      <item itemvalue="Go Build.go build 6.22~ Offer 38. 字符串的排列.go" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build 40.最小的k个数.go" />
-        <item itemvalue="Go Build.go build 279.完全平方数.go" />
-        <item itemvalue="Go Build.go build 13.机器人的运动范围.go" />
+        <item itemvalue="Go Build.go build 6.22~ Offer 38. 字符串的排列.go" />
+        <item itemvalue="Go Build.go build 6.21~401. 二进制手表.go" />
+        <item itemvalue="Go Build.go build 65.有效数字.go" />
+        <item itemvalue="Go Build.go build 78.字集.go" />
+        <item itemvalue="Go Build.go build 5.27~461. 汉明距离.go" />
       </list>
     </recent_temporary>
   </component>
@@ -154,10 +173,58 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="496" y="205" key="#Plugins" timestamp="1624247113233">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="496" y="205" key="#Plugins/0.0.1792.1120@0.0.1792.1120" timestamp="1624247113233" />
+    <state x="584" y="300" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1624247000861">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="584" y="300" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1624247000861" />
+    <state width="1750" height="284" key="GridCell.Tab.0.bottom" timestamp="1624442460873">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="284" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1624442460873" />
+    <state width="1750" height="284" key="GridCell.Tab.0.center" timestamp="1624442460872">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="284" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1624442460872" />
+    <state width="1750" height="284" key="GridCell.Tab.0.left" timestamp="1624442460871">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="284" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1624442460871" />
+    <state width="1750" height="284" key="GridCell.Tab.0.right" timestamp="1624442460872">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="284" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1624442460872" />
+    <state width="1750" height="284" key="GridCell.Tab.1.bottom" timestamp="1624442460874">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="284" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1624442460874" />
+    <state width="1750" height="284" key="GridCell.Tab.1.center" timestamp="1624442460874">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="284" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1624442460874" />
+    <state width="1750" height="284" key="GridCell.Tab.1.left" timestamp="1624442460873">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="284" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1624442460873" />
+    <state width="1750" height="284" key="GridCell.Tab.1.right" timestamp="1624442460874">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="284" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1624442460874" />
     <state x="405" y="196" key="SettingsEditor" timestamp="1620700163389">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="405" y="196" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1620700163389" />
+    <state x="597" y="315" width="597" height="490" key="find.popup" timestamp="1620878469217">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="597" y="315" width="597" height="490" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1620878469217" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1623401708783">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1623401708783" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
