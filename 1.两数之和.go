@@ -12,3 +12,5 @@ func twoSum(nums []int, target int) []int {
 	}
 	return nil
 }
+
+// 肥仔快乐
