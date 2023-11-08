@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,8 +22,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed0ca46a-712a-4a98-a90b-207df57e82f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/每日一题/6.25~752. 打开转盘锁.go" afterDir="false" />
+    <list default="true" id="ed0ca46a-712a-4a98-a90b-207df57e82f2" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/2022.7.31-1161.最大层内元素和.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/2022.8.1-1374.生成每种字符都是奇数个的字符串.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/2022.8.11-1417. 重新格式化字符串.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/2022.8.15-641. 设计循环双端队列.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/2022.8.16-1656. 设计有序流.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/2022.8.17-1302. 层数最深叶子节点的和.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/2022.8.18-1224. 最大相等频率.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/2022.8.9-1413.逐步求和得到正数的最小值.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,38 +48,58 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GOROOT" url="file:///usr/local/opt/go/libexec" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/必会的/tree.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/每日一题/2022.7.31-1161.最大层内元素和.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/每日一题/2022.8.11-1417. 重新格式化字符串.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/每日一题/2022.8.15-641. 设计循环双端队列.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/每日一题/2022.8.16-1656. 设计有序流.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/每日一题/2022.8.17-1302. 层数最深叶子节点的和.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/每日一题/2022.8.18-1224. 最大相等频率.go" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="1gLoxMUOcxwOYNq7W1SQ4hyHvxK" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="mysql" />
-    <property name="DefaultGoTemplateProperty" value="Go File" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
-    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
-    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
-    <property name="go.gopath.indexing.explicitly.defined" value="true" />
-    <property name="go.import.settings.migrated" value="true" />
-    <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;configurable..is.expanded&quot;: &quot;false&quot;,
+    &quot;configurable.GoLibrariesConfigurable.is.expanded&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;version__1&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/chenjiamin&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;leetcode.id&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -76,63 +109,54 @@
       <recent name="$PROJECT_DIR$/必会的" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build 6.22~ Offer 38. 字符串的排列.go">
+  <component name="RunManager" selected="Go 构建.go build 5.27~461. 汉明距离.go">
     <configuration name="go build 5.27~461. 汉明距离.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/每日一题/5.27~461. 汉明距离.go" />
       <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/每日一题/5.27~461. 汉明距离.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build 65.有效数字.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/状态机/65.有效数字.go" />
       <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/状态机/65.有效数字.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build 6.21~401. 二进制手表.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/每日一题/6.21~401. 二进制手表.go" />
       <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/每日一题/6.21~401. 二进制手表.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build 6.22~ Offer 38. 字符串的排列.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/每日一题/6.22~ Offer 38. 字符串的排列.go" />
       <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/每日一题/6.22~ Offer 38. 字符串的排列.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build 78.字集.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/递归回溯/78.字集.go" />
       <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/递归回溯/78.字集.go" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build 5.27~461. 汉明距离.go" />
-      <item itemvalue="Go Build.go build 78.字集.go" />
-      <item itemvalue="Go Build.go build 65.有效数字.go" />
-      <item itemvalue="Go Build.go build 6.21~401. 二进制手表.go" />
-      <item itemvalue="Go Build.go build 6.22~ Offer 38. 字符串的排列.go" />
+      <item itemvalue="Go 构建.go build 5.27~461. 汉明距离.go" />
+      <item itemvalue="Go 构建.go build 6.21~401. 二进制手表.go" />
+      <item itemvalue="Go 构建.go build 6.22~ Offer 38. 字符串的排列.go" />
+      <item itemvalue="Go 构建.go build 65.有效数字.go" />
+      <item itemvalue="Go 构建.go build 78.字集.go" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Go Build.go build 6.22~ Offer 38. 字符串的排列.go" />
-        <item itemvalue="Go Build.go build 6.21~401. 二进制手表.go" />
-        <item itemvalue="Go Build.go build 65.有效数字.go" />
-        <item itemvalue="Go Build.go build 78.字集.go" />
-        <item itemvalue="Go Build.go build 5.27~461. 汉明距离.go" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TodoView">
@@ -148,15 +172,6 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
     <option name="RECENT_FILTERS">
       <map>
         <entry key="Branch">
@@ -171,69 +186,19 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="WindowStateProjectService">
-    <state x="696" y="494" key="#GOROOT" timestamp="1624690153346">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="696" y="494" key="#GOROOT/0.0.1792.1120@0.0.1792.1120" timestamp="1624690153346" />
-    <state x="496" y="205" key="#Plugins" timestamp="1624247113233">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="496" y="205" key="#Plugins/0.0.1792.1120@0.0.1792.1120" timestamp="1624247113233" />
-    <state x="360" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627223719364">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="360" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1627223719364" />
-    <state x="584" y="300" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1624247000861">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="584" y="300" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1624247000861" />
-    <state width="1750" height="284" key="GridCell.Tab.0.bottom" timestamp="1624442460873">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1750" height="284" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1624442460873" />
-    <state width="1750" height="284" key="GridCell.Tab.0.center" timestamp="1624442460872">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1750" height="284" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1624442460872" />
-    <state width="1750" height="284" key="GridCell.Tab.0.left" timestamp="1624442460871">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1750" height="284" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1624442460871" />
-    <state width="1750" height="284" key="GridCell.Tab.0.right" timestamp="1624442460872">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1750" height="284" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1624442460872" />
-    <state width="1750" height="284" key="GridCell.Tab.1.bottom" timestamp="1624442460874">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1750" height="284" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1624442460874" />
-    <state width="1750" height="284" key="GridCell.Tab.1.center" timestamp="1624442460874">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1750" height="284" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1624442460874" />
-    <state width="1750" height="284" key="GridCell.Tab.1.left" timestamp="1624442460873">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1750" height="284" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1624442460873" />
-    <state width="1750" height="284" key="GridCell.Tab.1.right" timestamp="1624442460874">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1750" height="284" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1624442460874" />
-    <state x="405" y="196" key="SettingsEditor" timestamp="1620700163389">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="405" y="196" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1620700163389" />
-    <state x="597" y="315" width="597" height="490" key="find.popup" timestamp="1627305568126">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="597" y="315" width="597" height="490" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1627305568126" />
-    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1623401708783">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1623401708783" />
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
