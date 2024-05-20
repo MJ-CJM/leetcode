@@ -23,34 +23,71 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed0ca46a-712a-4a98-a90b-207df57e82f2" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/ready_100/1427.字符串的左右移.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ready_100/624.数组列表中的最大距离.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/每日一题/2024/4.24-2739. 总行驶距离.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字节题库/2. 两数相加.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字节题库/4.寻找两个顺序数组的中位数.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字节题库/5.最长回文子串.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/必会的/heap.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/必会的/heap_max.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/必会的/heap_mini.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/2024/1235.规划兼职工作.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/2024/1652.拆炸弹（滑动窗口）.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/2024/4.28-1017.负二进制转换.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/2024/4.29-1329.将矩阵按对角线排序.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/二分查找/1060.有序数组中缺失的元素.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/二分查找/1150.检查一个数在数组中是否占绝大多数.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/二分查找/1228.等差数列中缺失的数组.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/二分查找/1231.分享巧克力.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/二分查找/1533.找到最大整数的索引.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/动态规划/120.三角形最小路径求和.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/动态规划/121.买卖股票的最好时机.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/动态规划/122.买卖股票的最好时机2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/动态规划/123.买卖股票的最好时机3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/动态规划/152.乘积最大子数组.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/动态规划/188.买卖股票的最好时机4.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/动态规划/300.最长递增子序列.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/动态规划/309.买卖股票的最佳时机含冷冻期.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/动态规划/322.零钱兑换.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/动态规划/518.零钱兑换2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/动态规划/70.爬楼梯.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/动态规划/714.买卖股票的最佳时机含手续费.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/动态规划/72. 编辑距离.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/区间集合/163.缺失的区间.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/区间集合/252.会议室.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/区间集合/253.会议室2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/哈希/249.移位字符串分组.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/哈希/760.找出变位映射.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/回溯/51.N 皇后问题.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/回溯/52.  n 皇后问题 2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/图-广度优先/994.烂的橘子.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/堆/1167.链接木棍的最低费用.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/并查集/200.岛屿的数量.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/并查集/547.省份数量.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/数组、字符串/1055.形成字符串的最短路径.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/数组、字符串/1056.易混淆数.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/数组、字符串/1427.字符串的左右移.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/数组、字符串/161.相隔为一的编辑距离.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/数组、字符串/186.反转字符串中的单词.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/数组、字符串/280.摆动排序.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/数组、字符串/624.数组列表中的最大距离.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/栈/439.三元解析表达式.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/栈/484.寻找排列.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/滑动窗口/159.至少包含两个字符的最长子串.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/滑动窗口/340.至多包含 k 个字符的最长子串.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/滑动窗口/76.最小覆盖子串.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/矩阵/422.有效的单词方块.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/矩阵/531.孤独像素一.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/设计/1542.找出最长的超赞子字符串.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/设计/826.安排工作以达到最大收益.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/贪心/2244.完成所有任务所需的最小轮数.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/链表/1474.删除链表 M 节点后的 N 个节点.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/链表/369.给单链表加1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/链表/708.循环有序列表的插入.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/队列/1420.第一个唯一数字.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试 100 题目/队列/346.数据流中的移动平均值.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日一题/2022.7.31-1161.最大层内元素和.go" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/2022-2023/2022.7.31-1161.最大层内元素和.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日一题/2022.8.1-1374.生成每种字符都是奇数个的字符串.go" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/2022-2023/2022.8.1-1374.生成每种字符都是奇数个的字符串.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日一题/2022.8.11-1417. 重新格式化字符串.go" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/2022-2023/2022.8.11-1417. 重新格式化字符串.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日一题/2022.8.15-641. 设计循环双端队列.go" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/2022-2023/2022.8.15-641. 设计循环双端队列.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日一题/2022.8.16-1656. 设计有序流.go" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/2022-2023/2022.8.16-1656. 设计有序流.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日一题/2022.8.17-1302. 层数最深叶子节点的和.go" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/2022-2023/2022.8.17-1302. 层数最深叶子节点的和.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日一题/2022.8.18-1224. 最大相等频率.go" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/2022-2023/2022.8.18-1224. 最大相等频率.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日一题/2022.8.9-1413.逐步求和得到正数的最小值.go" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/2022-2023/2022.8.9-1413.逐步求和得到正数的最小值.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日一题/5.24~1787. 使所有区间的异或结果为零.go" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/2022-2023/5.24~1787. 使所有区间的异或结果为零.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日一题/5.26~1190. 反转每对括号间的子串.go" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/2022-2023/5.26~1190. 反转每对括号间的子串.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日一题/5.27~461. 汉明距离.go" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/2022-2023/5.27~461. 汉明距离.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日一题/5.28~477. 汉明距离总和.go" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/2022-2023/5.28~477. 汉明距离总和.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日一题/6.10~518. 零钱兑换 II.go" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/2022-2023/6.10~518. 零钱兑换 II.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日一题/6.11~279. 完全平方数.go" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/2022-2023/6.11~279. 完全平方数.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日一题/6.14~374. 猜数字大小.go" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/2022-2023/6.14~374. 猜数字大小.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日一题/6.15~852. 山脉数组的峰顶索引.go" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/2022-2023/6.15~852. 山脉数组的峰顶索引.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日一题/6.16~877. 石子游戏.go" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/2022-2023/6.16~877. 石子游戏.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日一题/6.17~65. 有效数字.go" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/2022-2023/6.17~65. 有效数字.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日一题/6.18~483. 最小好进制.go" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/2022-2023/6.18~483. 最小好进制.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日一题/6.19~1239. 串联字符串的最大长度.go" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/2022-2023/6.19~1239. 串联字符串的最大长度.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日一题/6.20~1600. 皇位继承顺序.go" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/2022-2023/6.20~1600. 皇位继承顺序.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日一题/6.21~401. 二进制手表.go" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/2022-2023/6.21~401. 二进制手表.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日一题/6.22~ Offer 38. 字符串的排列.go" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/2022-2023/6.22~ Offer 38. 字符串的排列.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日一题/6.25~752. 打开转盘锁.go" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/2022-2023/6.25~752. 打开转盘锁.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划/DP-120.三角形最小路径和.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/DP-120.三角形最小路径和.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/必会的/146.LRU.go" beforeDir="false" afterPath="$PROJECT_DIR$/必会的/146.LRU.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/必会的/sort.go" beforeDir="false" afterPath="$PROJECT_DIR$/必会的/sort.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +100,9 @@
         <option value="Go File" />
       </list>
     </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="false" />
   </component>
   <component name="GOROOT" url="file:///usr/local/opt/go/libexec" />
   <component name="Git.Settings">
@@ -105,7 +145,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;configurable..is.expanded&quot;: &quot;false&quot;,
     &quot;configurable.GoLibrariesConfigurable.is.expanded&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;version__2&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;version__3&quot;,
     &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
     &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/chenjiamin&quot;,
@@ -113,16 +153,16 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/面试 100 题目/数组、字符串" />
+      <recent name="$PROJECT_DIR$/面试 100 题目/滑动窗口" />
       <recent name="$PROJECT_DIR$/每日一题/2022-2023" />
       <recent name="$PROJECT_DIR$/每日一题/2024" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/面试" />
-      <recent name="$PROJECT_DIR$/递归回溯" />
     </key>
   </component>
   <component name="RunManager" selected="Go 构建.go build 5.27~461. 汉明距离.go">

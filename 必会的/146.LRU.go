@@ -83,3 +83,28 @@ func (this *LRUCache) MoveToHead(node *LinkNode) {
 	head.next = node
 	node.pre = head
 }
+
+/*
+这段代码实现了LRU（Least Recently Used）缓存的功能，LRU是一种缓存淘汰策略，它会优先淘汰最近最少使用的数据。下面是对代码实现的详细解释：
+
+定义结构体：
+
+LinkNode结构体：用于构建双向链表的节点，包含了键值对中的key和val，以及指向前一个节点和后一个节点的指针pre和next。
+LRUCache结构体：LRU缓存结构体，包含了一个map用于存储键值对，缓存的容量cap，以及指向双向链表头尾的指针head和tail。
+构造函数 Constructor(capacity int) LRUCache：
+
+初始化LRU缓存，传入参数为容量capacity，创建头部和尾部的哑节点，初始化LRUCache结构体，并返回。
+Get(key int) int方法：
+
+根据给定的键key获取对应的值val。
+首先从LRU缓存的map中查找键key，如果存在，则将对应的节点移动到链表头部（表示最近访问过），然后返回对应的值val；如果不存在，则返回-1表示未找到。
+Put(key int, value int)方法：
+
+存入键值对到LRU缓存中。
+首先检查给定的键key是否已存在于LRU缓存中，如果存在，则更新对应节点的值val，并将节点移动到链表头部；如果不存在，则创建新的节点，将其插入到链表头部，并将其加入LRU缓存的map中。若LRU缓存已满（即缓存的大小达到了容量上限），则删除最近最少使用的节点，即链表尾部的节点，并在map中也删除对应的键值对。
+MoveToHead(node *LinkNode)方法：
+
+将指定节点移动到链表头部。
+首先从链表中移除该节点，然后将其插入到链表头部，表示最近被访问过。
+通过这样的实现，LRU缓存能够实现快速存取数据，并在容量不足时按照最近使用情况淘汰数据，保持缓存的有效性。
+ */

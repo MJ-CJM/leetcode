@@ -73,6 +73,44 @@ func QuickSort(a []int) []int {
 	}
 }
 
+type node struct {
+	val	 	int
+	id  	int
+}
+
+func quickSort(list []node, low, high int) {
+	if low > high {
+		return
+	}
+
+	temp := list[low]
+	i := low
+	j := high
+	for i < j {
+		for list[j].val >= temp.val && i < j {
+			j--
+		}
+		for list[i].val <= temp.val && i < j {
+			i++
+		}
+		if i < j {
+			list[i], list[j] = list[j], list[i]
+		}
+	}
+
+	list[low] = list[i]
+	list[i] = temp
+
+	quickSort(list, low, i - 1)
+	quickSort(list, i + 1, high)
+	return
+}
+
+func QuickSort2(list []node) []node {
+	quickSort(list, 0, len(list)-1)
+	return list // 这里返回list是为了符合函数签名，尽管排序已经是原地完成的
+}
+
 // 两路归并排序, nlogn, 稳定, 非原地
 func MergeSort(a []int) []int {
 	if len(a) <= 1 {

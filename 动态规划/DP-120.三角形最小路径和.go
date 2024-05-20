@@ -1,33 +1,33 @@
 package main
 
 // 暴力递归解法
-//func minimumTotal(triangle [][]int) int {
-//	result := 0
-//	n := len(triangle)
-//	i := 0
-//	j := 0
-//	for i := 0; i < n; i++ {
-//		result += triangle[i][0]
-//	}
-//	iterm := triangle[0][0]
-//	_dfsmun(triangle, i, j, n, iterm, &result)
-//	return result
-//}
-//
-//func _dfsmun(tri [][]int, i int, j int, n int, iterm int, result *int) {
-//	// terminator
-//	if i == n-1{
-//		if iterm < *result{
-//			*result = iterm
-//		}
-//		return
-//	}
-//	// process && drill down
-//	c1 := iterm + tri[i+1][j]
-//	c2 := iterm + tri[i+1][j+1]
-//	_dfsmun(tri, i+1, j, n, c1, result)
-//	_dfsmun(tri, i+1, j+1, n, c2, result)
-//}
+func minimumTotal(triangle [][]int) int {
+	result := 0
+	n := len(triangle)
+	i := 0
+	j := 0
+	for i := 0; i < n; i++ {
+		result += triangle[i][0]
+	}
+	iterm := triangle[0][0]
+	_dfsmun(triangle, i, j, n, iterm, &result)
+	return result
+}
+
+func _dfsmun(tri [][]int, i int, j int, n int, iterm int, result *int) {
+	// terminator
+	if i == n-1{
+		if iterm < *result{
+			*result = iterm
+		}
+		return
+	}
+	// process && drill down
+	c1 := iterm + tri[i+1][j]
+	c2 := iterm + tri[i+1][j+1]
+	_dfsmun(tri, i+1, j, n, c1, result)
+	_dfsmun(tri, i+1, j+1, n, c2, result)
+}
 
 // 动态规划
 // 重复子问题：problem(i,j) = min(sub(i+1,j), sub(i+1,j+1))+a[i,j]
