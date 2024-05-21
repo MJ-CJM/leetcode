@@ -1,5 +1,6 @@
 package main
 
+// test
 func twoSum(nums []int, target int) []int {
 	hashmap := make(map[int]int)
 	for i, v := range nums {
