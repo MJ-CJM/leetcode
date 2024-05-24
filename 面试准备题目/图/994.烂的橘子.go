@@ -2,7 +2,7 @@
 // @Time : 2024/5/14 00:26
 // @Author: MJ-CJM
 // @File : leetcode/994.烂的橘子
-package main
+package 图
 
 func orangesRotting(grid [][]int) int {
 	n := len(grid)
