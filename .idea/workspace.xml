@@ -23,126 +23,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed0ca46a-712a-4a98-a90b-207df57e82f2" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/面试准备题目/动态规划/53.最大子数组和.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试准备题目/哈希/128.最长连续序列.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试准备题目/堆、栈/407.接雨水2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/必会的/nodelist_sort.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试准备题目/数组、字符串/238.除自身以为数组的乘积.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试准备题目/链表/148.排序链表.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/42.接雨水.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/动态规划/42.接雨水.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程/waitgroup.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/多线程/waitgroup.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程/交替打印.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/多线程/交替打印.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程/线程池.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/多线程/线程池.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/字符串/10.正则表达式匹配.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/动态规划/10.正则表达式匹配.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/字符串/32.最长有效括号.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/动态规划/32.最长有效括号.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/字符串/44.通配符匹配.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/动态规划/44.通配符匹配.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/字节题库/4.寻找两个顺序数组的中位数.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/二分查找/4.寻找两个顺序数组的中位数.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/状态机/65.有效数字.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/状态机/65.有效数字.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/二分查找/1060.有序数组中缺失的元素.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/二分查找/1060.有序数组中缺失的元素.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/二分查找/1150.检查一个数在数组中是否占绝大多数.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/二分查找/1150.检查一个数在数组中是否占绝大多数.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/二分查找/1228.等差数列中缺失的数组.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/二分查找/1228.等差数列中缺失的数组.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/二分查找/1231.分享巧克力.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/二分查找/1231.分享巧克力.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/二分查找/1533.找到最大整数的索引.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/二分查找/1533.找到最大整数的索引.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/动态规划/120.三角形最小路径求和.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/动态规划/120.三角形最小路径求和.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/动态规划/121.买卖股票的最好时机.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/动态规划/121.买卖股票的最好时机.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/动态规划/122.买卖股票的最好时机2.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/动态规划/122.买卖股票的最好时机2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/动态规划/123.买卖股票的最好时机3.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/动态规划/123.买卖股票的最好时机3.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/动态规划/152.乘积最大子数组.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/动态规划/152.乘积最大子数组.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/动态规划/188.买卖股票的最好时机4.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/动态规划/188.买卖股票的最好时机4.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/动态规划/300.最长递增子序列.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/动态规划/300.最长递增子序列.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/动态规划/309.买卖股票的最佳时机含冷冻期.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/动态规划/309.买卖股票的最佳时机含冷冻期.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/动态规划/322.零钱兑换.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/动态规划/322.零钱兑换.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/动态规划/518.零钱兑换2.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/动态规划/518.零钱兑换2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/动态规划/70.爬楼梯.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/动态规划/70.爬楼梯.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/动态规划/714.买卖股票的最佳时机含手续费.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/动态规划/714.买卖股票的最佳时机含手续费.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/动态规划/72. 编辑距离.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/动态规划/72. 编辑距离.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/区间集合/163.缺失的区间.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/区间集合/163.缺失的区间.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/区间集合/252.会议室.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/区间集合/252.会议室.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/区间集合/253.会议室2.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/区间集合/253.会议室2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/哈希/249.移位字符串分组.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/哈希/249.移位字符串分组.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/哈希/760.找出变位映射.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/哈希/760.找出变位映射.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/回溯/51.N 皇后问题.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/回溯/51.N 皇后问题.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/回溯/52.  n 皇后问题 2.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/回溯/52.  n 皇后问题 2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/图-广度优先/994.烂的橘子.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/图/994.烂的橘子.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/堆/1167.链接木棍的最低费用.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/堆、栈/1167.链接木棍的最低费用.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/并查集/200.岛屿的数量.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/并查集/200.岛屿的数量.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/并查集/547.省份数量.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/并查集/547.省份数量.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/数组、字符串/1055.形成字符串的最短路径.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/数组、字符串/1055.形成字符串的最短路径.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/数组、字符串/1056.易混淆数.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/数组、字符串/1056.易混淆数.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/数组、字符串/1427.字符串的左右移.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/数组、字符串/1427.字符串的左右移.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/数组、字符串/161.相隔为一的编辑距离.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/数组、字符串/161.相隔为一的编辑距离.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/数组、字符串/186.反转字符串中的单词.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/数组、字符串/186.反转字符串中的单词.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/数组、字符串/280.摆动排序.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/数组、字符串/280.摆动排序.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/数组、字符串/624.数组列表中的最大距离.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/数组、字符串/624.数组列表中的最大距离.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/栈/439.三元解析表达式.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/堆、栈/439.三元解析表达式.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/栈/484.寻找排列.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/堆、栈/484.寻找排列.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/滑动窗口/159.至少包含两个字符的最长子串.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/滑动窗口/159.至少包含两个字符的最长子串.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/滑动窗口/340.至多包含 k 个字符的最长子串.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/滑动窗口/340.至多包含 k 个字符的最长子串.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/滑动窗口/76.最小覆盖子串.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/滑动窗口/76.最小覆盖子串.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/矩阵/422.有效的单词方块.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/矩阵/422.有效的单词方块.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/矩阵/531.孤独像素一.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/矩阵/531.孤独像素一.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/设计/1542.找出最长的超赞子字符串.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/设计/1542.找出最长的超赞子字符串.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/设计/826.安排工作以达到最大收益.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/设计/826.安排工作以达到最大收益.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/贪心/2244.完成所有任务所需的最小轮数.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/贪心/2244.完成所有任务所需的最小轮数.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/链表/1474.删除链表 M 节点后的 N 个节点.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/链表/1474.删除链表 M 节点后的 N 个节点.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/链表/369.给单链表加1.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/链表/369.给单链表加1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/链表/708.循环有序列表的插入.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/链表/708.循环有序列表的插入.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/队列/1420.第一个唯一数字.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/队列/1420.第一个唯一数字.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试 100 题目/队列/346.数据流中的移动平均值.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/队列/346.数据流中的移动平均值.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/360_1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/58_2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/58_3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/aiqiyi_1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/aiqiyi_2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/aiqiyi_3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/alibaba_1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/alibaba_2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/alibaba_teach3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/baidu_1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/baidu_2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/baidu_3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/bilibili-24点.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/bilibili-括号校验.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/didi_1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/didi_2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/disifanshi_1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/disifanshi_2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/huawei_1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/huawei_2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/huawei_3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/huawei_mianshi_1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/huaweiminashi_2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/jindong_1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/jindong_2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/juren_1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/juren_2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/leihuo_1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/meituan-不一样的逆序对.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/meituan-旅行路线统计.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/meituan-运送订单.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/mihayou_1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/mihayou_2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/qianxin_1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/shangtang_1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/shangtang_2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/shopee_1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/tengxun_1.1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/tengxun_1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/tengxun_2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/tengxun_3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/tengxun_4.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/tengxun_5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/vivo_1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/vivo_2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/vivo_3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/wangyi2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/wangyi_1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/xiaohongshu.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/xiaohongshu3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/xiaomi_1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/xiecheng2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/xiecheng_1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/xioami_2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/缓存输入.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/输入数组.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划/279.完全平方数.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/动态规划/279.完全平方数.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划/518.零钱兑换2.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划/64.最小路径和.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/动态规划/64.最小路径和.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划/DP-53.最大子序和.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/动态规划/DP-53.最大子序和.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/图/802.找到最终的安全状态.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/图/802.找到最终的安全状态.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/贪心法/860.柠檬水找零.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/贪心/860.柠檬水找零.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/递归回溯/46.全排列1.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/回溯/46.全排列1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/递归回溯/47.全排列2.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/回溯/47.全排列2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/递归回溯/60.第k个排列.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/回溯/60.第k个排列.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/递归回溯/77..组合.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/回溯/77..组合.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/递归回溯/78.字集.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/回溯/78.字集.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/递归回溯/回溯-51.N皇后.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/递归回溯/回溯-Trie树-79.单词搜索.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/回溯/回溯-Trie树-79.单词搜索.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/递归回溯/回溯剪枝-37.解数独.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/回溯/回溯剪枝-37.解数独.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/递归回溯/递归-22.括号生成.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/回溯/递归-22.括号生成.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/递归回溯/递归分治-200.岛屿数量.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/回溯/递归分治-200.岛屿数量.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试准备题目/动态规划/518.零钱兑换2.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/动态规划/518.零钱兑换2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试准备题目/堆、栈/1167.链接木棍的最低费用.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/堆、栈、队列/1167.链接木棍的最低费用.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试准备题目/堆、栈/407.接雨水2.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/堆、栈、队列/407.接雨水2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试准备题目/堆、栈/439.三元解析表达式.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/堆、栈、队列/439.三元解析表达式.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试准备题目/堆、栈/484.寻找排列.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/堆、栈、队列/484.寻找排列.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试准备题目/队列/1420.第一个唯一数字.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/堆、栈、队列/1420.第一个唯一数字.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试准备题目/队列/346.数据流中的移动平均值.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/堆、栈、队列/346.数据流中的移动平均值.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +66,7 @@
   <component name="FormatOnSaveOptions">
     <option name="myRunOnSave" value="false" />
   </component>
-  <component name="GOROOT" url="file:///usr/local/opt/go/libexec" />
+  <component name="GOROOT" url="file:///opt/homebrew/Cellar/go/1.22.3/libexec" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -188,40 +95,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultGoTemplateProperty": "Go File",
-    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "configurable..is.expanded": "false",
-    "configurable.GoLibrariesConfigurable.is.expanded": "true",
-    "git-widget-placeholder": "version__beta",
-    "go.import.settings.migrated": "true",
-    "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "/Users/chenjiamin",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.sync"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;configurable..is.expanded&quot;: &quot;false&quot;,
+    &quot;configurable.GoLibrariesConfigurable.is.expanded&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;version__beta&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/youzihui&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/面试准备题目/动态规划" />
-      <recent name="$PROJECT_DIR$/面试准备题目/栈" />
+      <recent name="$PROJECT_DIR$/面试准备题目/回溯" />
       <recent name="$PROJECT_DIR$/面试准备题目/图" />
-      <recent name="$PROJECT_DIR$/面试准备题目" />
-      <recent name="$PROJECT_DIR$/面试 100 题目/二分查找" />
+      <recent name="$PROJECT_DIR$/面试准备题目/贪心" />
+      <recent name="$PROJECT_DIR$/面试准备题目/堆、栈" />
     </key>
   </component>
-  <component name="RunManager" selected="Go 构建.go build 5.27~461. 汉明距离.go">
+  <component name="RunManager" selected="Go Build.go build 5.27~461. 汉明距离.go">
     <configuration name="go build 5.27~461. 汉明距离.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <working_directory value="$PROJECT_DIR$" />
@@ -263,12 +171,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go 构建.go build 5.27~461. 汉明距离.go" />
-      <item itemvalue="Go 构建.go build 6.21~401. 二进制手表.go" />
-      <item itemvalue="Go 构建.go build 6.22~ Offer 38. 字符串的排列.go" />
-      <item itemvalue="Go 构建.go build 65.有效数字.go" />
-      <item itemvalue="Go 构建.go build 78.字集.go" />
+      <item itemvalue="Go Build.go build 5.27~461. 汉明距离.go" />
+      <item itemvalue="Go Build.go build 6.21~401. 二进制手表.go" />
+      <item itemvalue="Go Build.go build 6.22~ Offer 38. 字符串的排列.go" />
+      <item itemvalue="Go Build.go build 65.有效数字.go" />
+      <item itemvalue="Go Build.go build 78.字集.go" />
     </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-33c477a475b1-e0158606a674-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-241.15989.157" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-GO-241.15989.157" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TodoView">

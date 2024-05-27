@@ -1,5 +1,7 @@
 package main
 
+import main2 "leetcode/动态规划"
+
 // 暴力求解
 //func maxsubarray(nums []int) int {
 //	if nums == nil {
@@ -36,7 +38,7 @@ func maxSubArray(nums []int) int {
 			dp[i] = nums[i]
 			result = dp[i]
 		}else{
-			dp[i] = max(dp[i-1]+nums[i], nums[i])
+			dp[i] = main2.max(dp[i-1]+nums[i], nums[i])
 			if dp[i] > result{
 				result = dp[i]
 			}

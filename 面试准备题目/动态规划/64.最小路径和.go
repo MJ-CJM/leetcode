@@ -1,5 +1,7 @@
 package main
 
+import main2 "leetcode/动态规划"
+
 // 动态规划
 // 定义状态：dp[i][j]
 // 状态转移方程：dp[i][j] = min(dp[i-1][j], dp[i][j-1])
@@ -19,7 +21,7 @@ func minPathSum(grid [][]int) int {
 	}
 	for i := 1; i < n; i++ {
 		for j := 1; j < m; j++ {
-			dp[i][j] = min_int(dp[i-1][j], dp[i][j-1]) + grid[i][j]
+			dp[i][j] = main2.min_int(dp[i-1][j], dp[i][j-1]) + grid[i][j]
 		}
 	}
 	return dp[n-1][m-1]
