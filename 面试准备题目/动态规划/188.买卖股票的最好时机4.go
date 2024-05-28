@@ -8,7 +8,7 @@ package main
 	动态规划：
 	1. 定义：dp[i][k][j] k 买卖次数，j: 0/1 0: 没有股票，1：有股票
 	2. 状态转移方程：dp[i][k][0] = max(dp[i-1][k][0], dp[i-1][k][1] + prices[i] //卖出)
-                   dp[i][k][1] = max(dp[i-1][k][1],  dp[i-1][k-1 ][0] - prices[i] // 买入)
+                   dp[i][k][1] = max(dp[i-1][k][1],  dp[i-1][k-1][0] - prices[i] // 买入)
 	3. 结果: max dp[n-1][0-k][0]
 */
 func maxProfit4(k int, prices []int) int {
