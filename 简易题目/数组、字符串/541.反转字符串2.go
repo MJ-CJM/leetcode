@@ -1,4 +1,4 @@
-package main
+package 数组_字符串
 
 func reverseStr(s string, k int) string {
 	str := []byte(s)

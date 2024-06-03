@@ -1,4 +1,3 @@
-package main
 
 var luomap = map[int]string{
 	1:    "I",

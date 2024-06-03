@@ -2,6 +2,17 @@ package main
 
 import "fmt"
 
+/*
+这段代码通过构建一个字典索引来加速相似单词的查找，并使用广度优先搜索（BFS）遍历单词列表，以找到从 beginWord 到 endWord 的最短转换路径。以下是主要步骤：
+
+构建字典索引：预处理 wordList 中每个单词的所有可能索引形式，并存储在 wdict 中，以便快速查找相似单词。
+初始化 BFS：将 beginWord 添加到 wordList 的末尾，并将其索引加入 BFS 队列。
+执行 BFS：逐层遍历，每次尝试将当前单词转换为所有可能的相似单词，若找到 endWord 则返回层数，否则继续搜索下一层。
+返回结果：若遍历完所有可能仍未找到 endWord，返回 0。
+这种方法利用 BFS 的特性，确保找到的路径是最短的。通过构建字典索引，加速了相似单词的查找，提高了算法的效率。
+ */
+
+
 // 纯BFS
 func ladderLength(beginWord string, endWord string, wordList []string) int {
 	// 迭代wordList，把每个word都添加到匹配索引的列表中

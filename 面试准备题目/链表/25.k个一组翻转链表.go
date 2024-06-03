@@ -1,6 +1,5 @@
 package main
 
-
 func reverseKGroup(head *ListNode, k int) *ListNode {
 	first := &ListNode{Next: head}
 	pre := first

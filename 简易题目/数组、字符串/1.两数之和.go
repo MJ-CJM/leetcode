@@ -1,4 +1,4 @@
-package main
+package 数组_字符串
 
 func twoSum(nums []int, target int) []int {
 	hashmap := make(map[int]int)

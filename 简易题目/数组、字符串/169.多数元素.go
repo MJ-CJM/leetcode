@@ -1,4 +1,4 @@
-package main
+package 数组_字符串
 
 // 暴力解法
 func majorityElement1(nums []int) int {

@@ -1,4 +1,4 @@
-package main
+package 数组_字符串
 
 func removeDuplicates(nums []int) int {
 	count := 0

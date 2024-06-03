@@ -65,6 +65,43 @@ func largestRectangleArea(height []int) int{
 	return ans
 }
 
+func largestRectangleArea(heights []int) int {
+	res := 0
+	for i := 0; i < len(heights); i++ {
+		tmp := getArea(heights, i)
+		if  tmp > res {
+			res = tmp
+		}
+	}
+	return res
+}
+
+func getArea(heights []int, index int) int {
+	left := index - 1
+	right := index + 1
+	count := 1
+
+	for left >= 0 {
+		if heights[left] >= heights[index] {
+			count++
+			left--
+		} else {
+			break
+		}
+	}
+
+	for right < len(heights) {
+		if heights[right] >= heights[index] {
+			count++
+			right++
+		} else {
+			break
+		}
+	}
+
+	return count * heights[index]
+}
+
 func max(x, y int) int{
 	if x > y{
 		return x

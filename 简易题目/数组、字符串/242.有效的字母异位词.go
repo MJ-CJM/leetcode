@@ -1,4 +1,4 @@
-package main
+package 数组_字符串
 
 func isAnagram(s string, t string) bool {
 	l1 := [26]int{}

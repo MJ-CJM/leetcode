@@ -1,4 +1,4 @@
-package main
+package 数组_字符串
 
 func merge(nums1 []int, m int, nums2 []int, n int) {
 	for m > 0 && n > 0 {

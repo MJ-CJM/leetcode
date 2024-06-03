@@ -1,4 +1,4 @@
-package main
+package 数组_字符串
 
 import "sort"
 
@@ -10,8 +10,7 @@ func findContentChildren(g []int, s []int) int {
 	c1 := 0
 	c2 := 0
 	count := 0
-	flag := true
-	for flag {
+	for {
 		if c1 == n1 || c2 == n2{
 			break
 		}

@@ -1,4 +1,4 @@
-package 图
+package main
 
 import "sort"
 

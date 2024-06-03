@@ -1,6 +1,8 @@
 package main
 
-import "container/heap"
+import (
+	"container/heap"
+)
 
 // 分治法
 func mergeKLists(lists []*ListNode) *ListNode {
