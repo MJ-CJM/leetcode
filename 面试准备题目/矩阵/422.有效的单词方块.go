@@ -2,7 +2,7 @@
 // @Time : 2024/5/5 21:36
 // @Author: MJ-CJM
 // @File : leetcode/422.有效的单词方块
-package 矩阵
+package main
 
 func validWordSquare(words []string) bool {
 	for i, word := range words {

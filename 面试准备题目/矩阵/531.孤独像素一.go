@@ -2,7 +2,7 @@
 // @Time : 2024/5/5 22:06
 // @Author: MJ-CJM
 // @File : leetcode/531.孤独像素一
-package 矩阵
+package main
 
 func findLonelyPixel(picture [][]byte) int {
 	m := len(picture)
