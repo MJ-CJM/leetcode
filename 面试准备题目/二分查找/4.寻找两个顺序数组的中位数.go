@@ -38,6 +38,20 @@ func findMedianSortedArrays(nums1 []int, nums2 []int) float64 {
 }
 
 // 二分查找第 k 小数求解
+/*
+总长度的奇偶性判断：
+
+如果总长度是奇数，直接找第 totalLength / 2 + 1 小的元素。
+如果总长度是偶数，找第 totalLength / 2 小和第 totalLength / 2 + 1 小的元素，然后取平均值。
+分治法查找第 k 小的元素：
+
+使用两个索引 index1 和 index2 分别遍历 nums1 和 nums2。
+通过比较 nums1 和 nums2 中的元素，将较小的一部分元素排除，并调整 k 的值。
+递归进行，直到找到第 k 小的元素。
+时间复杂度：
+
+该算法的时间复杂度为 O(log(min(m, n)))，其中 m 和 n 分别是 nums1 和 nums2 的长度。
+ */
 func findMedianSortedArrays(nums1 []int, nums2 []int) float64 {
 	totalLength := len(nums1) + len(nums2)
 	if totalLength%2 == 1 {

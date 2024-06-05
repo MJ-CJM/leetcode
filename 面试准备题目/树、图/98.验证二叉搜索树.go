@@ -1,6 +1,8 @@
 package main
 
-import "math"
+import (
+	"math"
+)
 
 func isValidBST(root *TreeNode) bool {
 	if root == nil {

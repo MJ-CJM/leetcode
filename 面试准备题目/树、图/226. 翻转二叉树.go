@@ -10,7 +10,7 @@ package main
  */
 
 // 递归
-func invertTree(root *TreeNode) *TreeNode {
+func invertTree(root *main.TreeNode) *main.TreeNode {
 	 if root == nil {
 	 	return nil
 	 }
