@@ -35,7 +35,7 @@ func dfs_string(nums []string, n int, level int, iterm string, result *[]string)
 	}
 }
 
-// 数学解法
+// TODO: 数学解法
 func getPermutation_1(n int, k int) string {
 	factorial := make([]int, n)
 	factorial[0] = 1

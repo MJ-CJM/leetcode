@@ -1,4 +1,4 @@
-package main
+package 数组_字符串
 
 import (
 	"math"

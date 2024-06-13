@@ -6,6 +6,7 @@ package main
 //		                  1.false	      otherwise
 //			  p[j] == "*" 2. dp[i-1][j] or dp[i][j-2]             matches(s[i],p[j-1])
 //                        2. dp[i][j-2]                           otherwise
+// 详细解释说明
 func isMatch(s string, p string) bool {
 	m, n := len(s), len(p)
 	dp := make([][]bool, m+1)

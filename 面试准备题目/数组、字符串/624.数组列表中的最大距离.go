@@ -4,6 +4,8 @@
 // @File : leetcode/624.数组列表中的最大距离
 package main
 
+import "sort"
+
 type node struct {
 	val	 	int
 	id  	int
@@ -65,12 +67,12 @@ func maxDistance(arrays [][]int) int {
 		minList[i] = node{val: arrays[i][0], id: i}
 		maxList[i] = node{val: arrays[i][len(arrays[i])-1], id: i}
 	}
-	QuickSort(minList)
-	QuickSort(maxList)
+	//QuickSort(minList)
+	//QuickSort(maxList)
 
 	// 使用标准库进行排序
-	//sort.Slice(minList, func(i, j int) bool { return minList[i].val < minList[j].val })
-	//sort.Slice(maxList, func(i, j int) bool { return maxList[i].val < maxList[j].val })
+	sort.Slice(minList, func(i, j int) bool { return minList[i].val < minList[j].val })
+	sort.Slice(maxList, func(i, j int) bool { return maxList[i].val < maxList[j].val })
 
 
 	if minList[0].id != maxList[len(maxList)-1].id {
