@@ -7,19 +7,28 @@ import (
 
 func lengthOfLongestSubstring(s string) int {
 	n := len(s)
-	res := 0
-	start, end := 0, -1
-	freq := make([]int, 128)
-	for start < n {
-		if end+1 < n && freq[s[end+1]] == 0 {
-			end++
-			freq[s[end]]++
-		}else{
-			freq[s[start]]--
-			start++
-		}
-		res = max(res, end-start+1)
+
+	if n <= 1 {
+		return n
 	}
+
+	res := 0
+	sMap := make(map[byte]int)
+	i := 0
+
+	for j := 0; j < n; j++ {
+		if v, ok := sMap[s[j]]; ok && v >= i {
+			i = v + 1
+		}
+
+		sMap[s[j]] = j
+
+		tmp := j - i + 1
+		if tmp > res {
+			res = tmp
+		}
+	}
+
 	return res
 }
 
