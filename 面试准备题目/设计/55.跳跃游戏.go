@@ -13,3 +13,19 @@ func canJump(nums []int) bool {
 	}
 	return endnum == 0
 }
+
+func canJump2(nums []int) bool {
+	ability := nums[0]
+
+	for i := 0; i < len(nums); i++ {
+		if ability < nums[i] {
+			ability = nums[i]
+		}
+
+		if ability <= 0 && i < len(nums) - 1 {
+			return false
+		}
+		ability--
+	}
+	return true
+}
