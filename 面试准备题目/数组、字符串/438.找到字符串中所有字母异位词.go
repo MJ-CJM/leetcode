@@ -30,3 +30,30 @@ func findAnagrams(s string, p string) []int {
 	}
 	return res
 }
+
+func findAnagrams2(s string, p string) []int {
+	pE := getkey(p)
+	n := len(s)
+	m := len(p)
+	res := []int{}
+	if n < m {
+		return res
+	}
+	for i := 0; i < n - m + 1; i++ {
+		tmp := s[i:i+m]
+		tmpK := getkey(tmp)
+		if tmpK == pE {
+			res = append(res, i)
+		}
+	}
+	return res
+}
+
+
+func getkey(s string) [26]int {
+	res := [26]int{}
+	for i := 0; i < len(s); i++ {
+		res[s[i]-'a']++
+	}
+	return res
+}

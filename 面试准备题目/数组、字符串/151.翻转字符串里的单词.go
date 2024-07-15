@@ -5,6 +5,7 @@ import (
 	"strings"
 )
 
+// 先去除多余空格（首部，尾部，中部），再反转整体字符串，最后以空格为结束，分别反转每一个单词。
 func reverseWords(s string) string {
 	s = strings.TrimSpace(s)
 	str := strings.Split(s, " ")

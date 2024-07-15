@@ -7,6 +7,7 @@ import "fmt"
 // dp[i][j] = p[j] == "*" 1.dp[i][j-1] || dp[i-1][j]
 //			  p[j] != "*" 2.dp[i-1][j-1]              s[i] == p[j] || p[j] == '?'
 //                        2.false                      otherwise
+// '*' 可以匹配任意字符序列（包括空字符序列）。
 func isMatch_2(s string, p string) bool {
 	m, n := len(s), len(p)
 	dp := make([][]bool, m+1)

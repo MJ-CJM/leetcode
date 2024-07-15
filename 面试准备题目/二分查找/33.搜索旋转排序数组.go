@@ -29,29 +29,36 @@ package main
 //}
 
 func search(nums []int, target int) int {
-	if len(nums) == 0{
+	if len(nums) == 0 {
 		return -1
 	}
 	left := 0
 	right := len(nums) - 1
-	for left <= right{
+
+	for left <= right {
 		mid := left + (right-left)/2
-		if nums[mid] == target{
+
+		if nums[mid] == target {
 			return mid
 		}
-		if nums[0] <= nums[mid]{
-			if nums[0] <= target && target < nums[mid]{
+
+		// 如果左半部分有序
+		if nums[left] < nums[mid] {
+			if nums[left] <= target && target < nums[mid] {
 				right = mid - 1
-			}else{
+			} else {
 				left = mid + 1
 			}
-		}else{
-			if nums[mid] < target && target <= nums[right]{
+		} else if nums[left] > nums[mid] { // 如果右半部分有序
+			if nums[mid] < target && target <= nums[right] {
 				left = mid + 1
-			}else{
+			} else {
 				right = mid - 1
 			}
+		} else { // 处理重复元素的情况
+			left++
 		}
 	}
+
 	return -1
 }
