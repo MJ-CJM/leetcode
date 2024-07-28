@@ -23,13 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed0ca46a-712a-4a98-a90b-207df57e82f2" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/面试准备题目/动态规划/576.出界的路径数.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试准备题目/滑动窗口/209.长度最小的子数组.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试准备题目/二分查找/33.搜索旋转排序数组.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/二分查找/33.搜索旋转排序数组.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试准备题目/动态规划/10.正则表达式匹配.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/动态规划/10.正则表达式匹配.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试准备题目/动态规划/44.通配符匹配.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/动态规划/44.通配符匹配.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试准备题目/数组、字符串/151.翻转字符串里的单词.go" beforeDir="false" afterPath="$PROJECT_DIR$/面试准备题目/数组、字符串/151.翻转字符串里的单词.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

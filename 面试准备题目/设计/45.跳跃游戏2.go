@@ -5,6 +5,7 @@ func jump(nums []int) int {
 	step := 0
 	end := 0
 	maxIndex := 0
+	// i 跳到 n-2 位置，是为了防止在 n - 1 时，step 还要 ++
 	for i := 0; i < n - 1; i++ {
 		maxIndex = max(maxIndex, i + nums[i])
 		if i == end {
