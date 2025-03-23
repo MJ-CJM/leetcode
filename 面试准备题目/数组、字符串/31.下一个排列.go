@@ -1,4 +1,4 @@
-package main
+nspackage main
 
 import "fmt"
 

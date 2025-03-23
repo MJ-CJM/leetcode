@@ -33,7 +33,7 @@ func minWindow(s string, t string) string {
 			// 更新最小子串的起始位置和长度
 			if right - left + 1 < minLen {
 				minLen = right - left + 1
-				start = left
+				 = left
 			}
 			// 如果左指针指向的字符在 t 中出现，则更新计数器
 			if counter[s[left]] == 0 {
